@@ -1,14 +1,43 @@
-## Hi there 👋
+## 👋 Hi there! I'm Ramesh
 
-**Ramesht95/Ramesht95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Technical Writer | Documentation Enthusiast**
 
-Here are some ideas to get you started:
+### 📌 About Me
+- Passionate about creating **clear, user-friendly documentation**.
+- Currently working at **Thryve Digital Health LLP** as a **Technical Writer**.
+- Experienced in **structured authoring and technical documentation**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🖥️ Digital Skills 
+
+### 📖 Authoring Tools
+- Confluence
+- Madcap Flare
+- Microsoft Word
+- Oxygen XML Author
+
+### ✂️ Visual Editing Tools
+- Camtasia
+- Snagit
+
+### 🛠️ Project Management & Collaboration
+- GitHub
+- Jira
+- SharePoint
+
+### 🔧 Other Skills
+- Proficient in XML, HTML, DITA, and Agile methodologies.
+
+---
+
+## 📂 Portfolio
+🔗 **My Portfolio** – *Brief description & link*
+
+---
+
+## 📫 Connect with Me
+📩 **Email:** rameshtm95@gmail.com
+🔗 **Portfolio:** 
+💻 **GitHub:** 
+📄 **LinkedIn:** 
