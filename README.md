@@ -1,8 +1,8 @@
-## 👋 Hi there! I'm Ramesh
+# 👋 Hi there! I'm Ramesh
 
 🚀 **Technical Writer | Documentation Enthusiast**
 
-### 📌 About Me
+## 📌 About Me
 - Passionate about creating **clear, user-friendly documentation**.
 - Currently working at **Thryve Digital Health LLP** as a **Technical Writer**.
 - Experienced in **structured authoring and technical documentation**.
@@ -32,12 +32,12 @@
 ---
 
 ## 📂 Portfolio
-🔗 **My Portfolio** – *Brief description & link*
+🔗 **My Portfolio** – *[View my Portfolio](https://drive.google.com/drive/folders/17S203EM1mVQT6E4FntLC3cGg50R02oYI)*
 
 ---
 
 ## 📫 Connect with Me
-📩 **Email:** rameshtm95@gmail.com
-🔗 **Portfolio:** 
-💻 **GitHub:** 
-📄 **LinkedIn:** 
+- 📞**Mobile** +91-8148955228
+- 📩 **Email:** rameshtm95@gmail.com
+- 💻 **GitHub:** [My GitHub profile repository](https://github.com/Ramesht95/Ramesh-T)
+- 📄 **LinkedIn:** [Visit my LinkedIn profile](https://www.linkedin.com/in/ramesh-t-3750a0147/)
