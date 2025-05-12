@@ -2,7 +2,7 @@
 layout: default
 title: home
 ---
-
+[Home](index.md) | [About Me](about-me.md) | [Contact](contact.md)
 # Welcome to My Professional Portfolio
 ## Hi there! I'm Ramesh 👋
 I’m a Technical Writer with a passion for creating clear, concise, and user-friendly documentation. With a strong background in structured authoring and technical documentation, I specialize in simplifying complex concepts for a wide audience.
