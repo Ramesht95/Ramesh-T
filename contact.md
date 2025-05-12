@@ -18,7 +18,7 @@ I’d love to hear from you! Whether it’s a collaboration, a question, or just
 
 ### Social Media
 
-- 💼 **LinkedIn**: [Visit my LinkedIn](https://www.linkedin.com/in/ramesh)
+- 💼 **LinkedIn**: [Visit my LinkedIn](https://www.linkedin.com/in/ramesh-t-3750a0147/)
 - 🐦 **Twitter**: [Follow me on Twitter](#)
 
 If you'd prefer, you can also use the form below to get in touch directly.
