@@ -29,6 +29,7 @@ Today, I focus on helping teams build well-structured and easily understandable 
 
 What excites me the most about my profession is the impact it has on making technology accessible to everyone, regardless of their technical expertise. Great documentation is the bridge between complex software products and the end users. My goal is to help users understand, troubleshoot, and make the most out of the products they use.
 
+
 ## Connect with Me
 
 I am always eager to connect with like-minded professionals and share knowledge. Feel free to reach out if you want to collaborate, discuss tech writing, or simply exchange ideas.
