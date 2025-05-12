@@ -5,6 +5,6 @@ title: "Home"
 
 # Welcome to My Website
 
-- [Home](home.md)
+- [Home](Home.md)
 - [Contact](contact.md)
-- [Portfolio](Porfolio.md)
+- [Portfolio](Portfolio.md)
