@@ -5,6 +5,7 @@ title: About Me
 [Home](index.md) | [About Me](about-me.md) | [Contact](contact.md)
 
 # About Me
+![Ramesh pic](/images/Ramesh.T_Photo.jpg)
 
 Hello! I’m **Ramesh**, a passionate **Technical Writer** with a focus on creating clear, concise, and user-friendly documentation. Currently, I’m working at **Thryve Digital Health LLP** where I specialize in **structured authoring**, **technical documentation**, and **content strategy**.
 
