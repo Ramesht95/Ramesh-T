@@ -1,6 +1,6 @@
 ---
 layout: default
-title: about Me
+title: About Me
 ---
 [Home](index.md) | [About Me](about-me.md) | [Contact](contact.md)
 
