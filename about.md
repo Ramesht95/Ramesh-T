@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-[Home](index.md) | [About Me](about-me.md) | [Contact](contact.md) | [Documents](documents.md)
+[Home](index.md) | [About](about.md) | [Contact](contact.md) | [Documents](documents.md)
 
 # About Me
 ![Ramesh pic](/images/Ramesh.T_Photo.jpg)
