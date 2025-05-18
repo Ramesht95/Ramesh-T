@@ -2,6 +2,11 @@
 layout: default
 title: About
 ---
+<style>
+header {
+  height: 60vh;
+}
+</style>
 
 [Home](index.md) | [About](about.md) | [Contact](contact.md) | [Projects](projects.md)
 <link rel="stylesheet" href="/css/style.css" />
