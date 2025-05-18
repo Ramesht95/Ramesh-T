@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-[Home](index.md) | [About](about.md) | [Contact](contact.md) | [Documents](documents.md)
+[Home](index.md) | [About](about.md) | [Contact](contact.md) | [Projects](projects.md)
 
 <div style="display: flex; gap: 30px; flex-wrap: wrap; align-items: flex-start; padding: 20px;">
 

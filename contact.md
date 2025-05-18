@@ -3,7 +3,7 @@ layout: default
 title: Contact
 ---
 
-[Home](index.md) | [About](about.md) | [Contact](contact.md) | [Documents](documents.md)
+[Home](index.md) | [About](about.md) | [Contact](contact.md) | [Projects](projects.md)
 
 # Contact Me
 

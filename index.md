@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-[Home](index.md) | [About](about.md) | [Contact](contact.md) | [Documents](documents.md)
+[Home](index.md) | [About](about.md) | [Contact](contact.md) | [Projects](projects.md)
 
 # Welcome to My Professional Portfolio
 ## Hi there! I'm Ramesh
