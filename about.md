@@ -6,9 +6,7 @@ title: About
 [Home](index.md) | [About](about.md) | [Contact](contact.md) | [Projects](projects.md)
 
 <br>
-
 <div style="display: flex; align-items: flex-start; gap: 20px;">
-
   <img src="images/Ramesh.T_Photo.jpg" alt="Ramesh pic" style="width: 220px; border-radius: 10px;">
 
   <div>
@@ -20,7 +18,6 @@ title: About
 
 </div>
 
-I have a strong interest in making complex technical concepts more accessible to a wider audience. Over the years, I’ve had the opportunity to work with various authoring tools and collaborate with diverse teams, ensuring the best documentation practices are followed.
 
 ## My Journey
 
