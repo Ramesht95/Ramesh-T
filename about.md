@@ -4,7 +4,7 @@ title: About
 ---
 <style>
 header {
-  height: 15vh;
+  height: 20vh;
 }
 </style>
 
