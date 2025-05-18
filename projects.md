@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-[Home](index.md) | [About](about.md) | [Contact](contact.md) | [Documents](documents.md)
+[Home](index.md) | [About](about.md) | [Contact](contact.md) | [Projects](projects.md)
 
 [Click here](documents/Ramesh%20T_Resume.pdf) to download my resume.
 
