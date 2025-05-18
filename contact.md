@@ -4,7 +4,7 @@ title: Contact
 ---
 
 [Home](index.md) | [About](about.md) | [Contact](contact.md) | [Projects](projects.md)
-
+<link rel="stylesheet" href="/css/style.css" />
 # Contact Me
 
 I’d love to hear from you! Whether it’s a collaboration, a question, or just to connect, feel free to reach out. You can contact me through the following channels:

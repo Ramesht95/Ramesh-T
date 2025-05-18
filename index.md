@@ -4,7 +4,7 @@ title: Home
 ---
 
 [Home](index.md) | [About](about.md) | [Contact](contact.md) | [Projects](projects.md)
-
+<link rel="stylesheet" href="/css/style.css" />
 # Welcome to My Professional Portfolio
 ## Hi there! I'm Ramesh
 I’m a Technical Writer with a passion for creating clear, concise, and user-friendly documentation. With a strong background in structured authoring and technical documentation, I specialize in simplifying complex concepts for a wide audience.

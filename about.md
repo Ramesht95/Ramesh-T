@@ -4,7 +4,7 @@ title: About
 ---
 
 [Home](index.md) | [About](about.md) | [Contact](contact.md) | [Projects](projects.md)
-
+<link rel="stylesheet" href="/css/style.css" />
 <br>
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <img src="images/Ramesh.T_Photo.jpg" alt="Ramesh pic" style="width: 220px; border-radius: 10px;">

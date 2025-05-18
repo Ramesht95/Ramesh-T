@@ -4,7 +4,7 @@ title: Home
 ---
 
 [Home](index.md) | [About](about.md) | [Contact](contact.md) | [Projects](projects.md)
-
+<link rel="stylesheet" href="/css/style.css" />
 ## Concept Topic
 
 <iframe src="documents/Concept%20topic.pdf" width="100%" height="600px">

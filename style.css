@@ -1,0 +1,7 @@
+/* style.css */
+header {
+  height: 60vh;  /* header height reduced to 60% of viewport height */
+  padding: 20px 0; /* reduce padding if needed */
+  background-size: cover;
+  background-position: center;
+}
