@@ -8,7 +8,7 @@ title: About
 <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
 
   <!-- Image on left -->
-  <img src="/images/Ramesh.T_Photo.jpg" alt="Ramesh pic" style="width: 220px; border-radius: 10px;">
+  <img src="images/Ramesh.T_Photo.jpg" alt="Ramesh pic" style="width: 220px; border-radius: 10px;">
 
   <!-- Text on right -->
   <div style="max-width: 700px;">
