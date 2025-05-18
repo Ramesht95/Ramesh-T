@@ -5,4 +5,4 @@ title: Home
 
 [Home](index.md) | [About Me](about-me.md) | [Contact](contact.md) | [Documents](documents.md)
 
-[View the Document](/documents/Resume%20(2).pdf)
+[Click here](/documents/Ramesh%20T_Resume.pdf) to download my resume.
