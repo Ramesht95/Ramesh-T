@@ -46,7 +46,7 @@ With dedicated preparation and support, I transitioned into a new role as a **Te
     <a href="documents/Ramesh_TWT_Cert.pdf">Download PDF</a>.
 </iframe>
 
-<iframe src="documents/Touch20%typing_Cert.pdf"" width="100%" height="600px">
+<iframe src="documents/Touch20%typing_Cert.pdf" width="100%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it:
     <a href="documents/Touch20%typing_Cert.pdf">Download PDF</a>.
 </iframe>
