@@ -63,3 +63,11 @@ iframe {
     height: 400px;
   }
 }
+
+nav a.active {
+  color: white;
+  background-color: #007BFF;
+  padding: 5px 10px;
+  border-radius: 5px;
+  text-decoration: none;
+}
