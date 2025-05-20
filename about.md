@@ -39,12 +39,21 @@ With dedicated preparation and support, I transitioned into a new role as a **Te
 *The Salem Polytechnic College, Salem  
 2010 - 2013*
 
-## Certifications
+## 📜 Certifications
+
+**Technical Writing Certification Course** - **Tech Writer’s Tribe**  
+
+Pursued this certification as part of my professional development to deepen my understanding of documentation standards, refine my writing style, and stay current with industry tools and best practices. The program offered hands-on assignments, peer reviews, and expert guidance that enriched my experience as a practicing technical writer.
 
 <iframe src="documents/Ramesh_TWT_Cert.pdf" width="100%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it:
     <a href="documents/Ramesh_TWT_Cert.pdf">Download PDF</a>.
 </iframe>
+
+
+**Typing Speed Certification** - **Typing.com**  
+
+Completed the Advanced Unit with a typing speed of 34 WPM and an accuracy of 96%. This certification reflects my commitment to improving typing efficiency and accuracy, which supports my day-to-day responsibilities as a technical writer. (Issued: March 2, 2025)
 
 <iframe src="documents/Touch_typing_Cert.pdf" width="100%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it:
