@@ -28,6 +28,7 @@ During this time, a friend introduced me to the field of Technical Writing. He e
 With dedicated preparation and support, I transitioned into a new role as a **Technical Writer** at **Cognizant Technology Solutions**, Chennai. This marked a turning point in my career where I could combine my writing ability, technical curiosity, and passion for clarity into a meaningful profession.
 
 
+
 ## 🎓Education
 
 **BE - Aeronautical Engineering**   
@@ -38,6 +39,17 @@ With dedicated preparation and support, I transitioned into a new role as a **Te
 *The Salem Polytechnic College, Salem  
 2010 - 2013*
 
+## Certifications
+
+<iframe src="documents/Ramesh_TWT_Cert.pdf" width="100%" height="600px">
+    This browser does not support PDFs. Please download the PDF to view it:
+    <a href="documents/Ramesh_TWT_Cert.pdf">Download PDF</a>.
+</iframe>
+
+<iframe src="documents/Touch20%typing_Cert.pdf"" width="100%" height="600px">
+    This browser does not support PDFs. Please download the PDF to view it:
+    <a href="documents/Touch20%typing_Cert.pdf">Download PDF</a>.
+</iframe>
 
 ## My Skills
 
