@@ -1,12 +1,7 @@
 ---
 layout: default
-title: Home
+title: Projects
 ---
-<style>
-header {
-  height: 30vh;
-}
-</style>
 
 [Home](index.md) | [About](about.md) | [Contact](contact.md) | [Projects](projects.md)
 
