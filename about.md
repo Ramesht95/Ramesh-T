@@ -4,7 +4,7 @@ title: About
 ---
 <style>
 header {
-  height: 25vh;
+  height: 30vh;
 }
 </style>
 
@@ -53,7 +53,7 @@ Pursued this certification as part of my professional development to deepen my u
 
 **Typing Speed Certification** - **Typing.com**  
 
-Completed the Advanced Unit with a typing speed of 34 WPM and an accuracy of 96%. This certification reflects my commitment to improving typing efficiency and accuracy, which supports my day-to-day responsibilities as a technical writer. (Issued: March 2, 2025)
+Completed the Advanced Unit with a typing speed of 34 WPM and an accuracy of 96%. Pursuing this certification helped me improve my typing efficiency and accuracy, which supports my day-to-day responsibilities as a technical writer.
 
 <iframe src="documents/Touch_typing_Cert.pdf" width="100%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it:

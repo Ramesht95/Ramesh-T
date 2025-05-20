@@ -4,7 +4,7 @@ title: Home
 ---
 <style>
 header {
-  height: 25vh;
+  height: 30vh;
 }
 </style>
 

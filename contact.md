@@ -4,7 +4,7 @@ title: Contact
 ---
 <style>
 header {
-  height: 25vh;
+  height: 30vh;
 }
 </style>
 
