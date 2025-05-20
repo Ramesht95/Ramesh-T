@@ -21,16 +21,30 @@ I have a strong interest in making complex technical concepts more accessible to
 
 ## My Journey
 
-I started my career with a keen interest in writing and technology, which led me to explore the world of **technical communication**. After gaining proficiency in authoring tools like **Oxygen XML**, **Confluence**, and **Madcap Flare**, I shifted my focus to creating digital content that not only conveys technical information but is also user-friendly.
+I began my career as a **Process Associate** at **Mr. Cooper**, a leading mortgage company, where I worked in the Operations Department. My responsibility was to ensure the accuracy and quality of loan-related documents, which required attention to detail, documentation skills, and process understanding.
 
-Today, I focus on helping teams build well-structured and easily understandable documentation that enhances the user experience and drives the success of the product.
+During this time, a friend introduced me to the field of Technical Writing. He explained the role of software documentation in bridging the gap between users and technology. His guidance and mentorship sparked my interest, and I began learning the basics of technical writing including document structuring, clarity, and industry tools.
+
+With dedicated preparation and support, I transitioned into a new role as a **Technical Writer** at **Cognizant Technology Solutions**, Chennai. This marked a turning point in my career where I could combine my writing ability, technical curiosity, and passion for clarity into a meaningful profession.
+
+
+## 🎓Education
+
+**BE - Aeronautical Engineering**   
+*Rajalakshmi Engineering College, Chennai  
+2015 - 2018*
+
+**Diploma in Mechanical Engineering**   
+*The Salem Polytechnic College, Salem  
+2010 - 2013*
+
 
 ## My Skills
 
-- **Authoring Tools**: Oxygen XML, Confluence, Madcap Flare, Microsoft Word
+- **Authoring Tools**: Confluence, Madcap Flare, Microsoft Word, Oxygen XML Author
 - **Technical Skills**: XML, HTML, DITA, Agile Methodologies
 - **Project Management**: Jira, SharePoint, GitHub
-- **Visual Editing Tools**: Camtasia, Snagit
+- **Visual Editing Tools**: Camtasia, Snagit, Shotcut, Edraw AI, Whimsical AI
 - **Methodologies**: Structured Authoring, Single Sourcing
 
 ## Why I Love Documentation
