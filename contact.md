@@ -12,19 +12,9 @@ header {
 
 # Contact Me
 
-I’d love to hear from you! Whether it’s a collaboration, a question, or just to connect, feel free to reach out. You can contact me through the following channels:
-
-### Email
-
-- 📧 **Email**: [rameshtm95@gmail.com](mailto:rameshtm95@gmail.com)
-
-### Phone
+I'm available for professional opportunities, collaborations, and documentation projects in the field of technical writing. Feel free to reach out to explore how I can add value. You can contact me through the following channels:
 
 - 📞 **Phone**: +91-8148955228
-
-### Social Media
-
-- 💼 **LinkedIn**: [Visit my LinkedIn](https://www.linkedin.com/in/ramesh-t-3750a0147/)
-- 🐦 **Twitter**: [Follow me on Twitter](#)
-
-If you'd prefer, you can also use the form below to get in touch directly.
+- 📧 **Email**: [rameshtm95@gmail.com](mailto:rameshtm95@gmail.com)
+- 📍 **Location**: Chennai, Tamil Nadu, India
+- 💼 **LinkedIn**: [click here](https://www.linkedin.com/in/ramesh-t-3750a0147/) to visit my LinkedIn Profile

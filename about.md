@@ -72,14 +72,7 @@ Completed the Advanced Unit with a typing speed of 34 WPM and an accuracy of 96%
 
 What excites me the most about my profession is the impact it has on making technology accessible to everyone, regardless of their technical expertise. Great documentation is the bridge between complex software products and the end users. My goal is to help users understand, troubleshoot, and make the most out of the products they use.
 
-
-## Connect with Me
-
-I am always eager to connect with like-minded professionals and share knowledge. Feel free to reach out if you want to collaborate, discuss tech writing, or simply exchange ideas.
-
-- 📞 **Phone**: +91-8148955228
-- 📧 **Email**: [rameshtm95@gmail.com](mailto:rameshtm95@gmail.com)
-- 💼 **LinkedIn**: [Visit my LinkedIn](https://www.linkedin.com/in/ramesh-t-3750a0147/)
+## 📝 Testimonials
 
 Thank you for visiting my page!
 
