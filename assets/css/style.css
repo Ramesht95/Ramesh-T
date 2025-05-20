@@ -127,7 +127,8 @@ main.content h1 {
 .profile-photo img {
   width: 50px;
   height: 50px;
-  object-position: center 25%;
+  object-fit: cover;
+  object-position: center 25%; /* or center 60%, adjust as needed */
   border-width: 2px;
 }
 
