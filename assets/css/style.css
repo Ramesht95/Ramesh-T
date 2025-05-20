@@ -31,6 +31,7 @@ nav.sidebar {
   height: 100vh;
 }
 
+/* Navigation links */
 nav.sidebar a {
   color: white;
   padding: 15px 20px;
@@ -66,29 +67,7 @@ main.content h1 {
   color: #2c3e50;
 }
 
-/* Responsive */
-@media (max-width: 768px) {
-  nav.sidebar {
-    position: relative;
-    width: 100%;
-    height: auto;
-    flex-direction: row;
-    justify-content: space-around;
-  }
-  nav.sidebar a {
-    border-left: none;
-    border-bottom: 4px solid transparent;
-    padding: 10px;
-  }
-  nav.sidebar a:hover, nav.sidebar a.active {
-    border-left: none;
-    border-bottom: 4px solid #e67e22;
-  }
-  main.content {
-    margin-left: 0;
-    padding: 20px;
-  }
-}
+/* Profile photo on the sidebar */
 .profile-photo {
   text-align: center;
   margin-bottom: 30px;
@@ -99,8 +78,56 @@ main.content h1 {
   height: 120px;
   border-radius: 50%;
   object-fit: cover;
-  object-position: center 30%; /* shifts image down inside circle */
+  object-position: center 25%; /* adjust this to move face slightly down */
   border: 3px solid #e67e22;
   box-shadow: 0 0 8px rgba(0,0,0,0.15);
 }
 
+/* ========== Responsive Design for Mobile ========== */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+
+  nav.sidebar {
+    position: relative;
+    width: 100%;
+    height: auto;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+
+  nav.sidebar a {
+    display: inline-block;
+    margin: 0 10px;
+    padding: 8px 12px;
+    font-size: 14px;
+    border-left: none;
+    border-bottom: 4px solid transparent;
+  }
+
+  nav.sidebar a:hover,
+  nav.sidebar a.active {
+    border-bottom: 4px solid #e67e22;
+  }
+
+  .profile-photo {
+    margin-bottom: 0;
+    margin-right: 10px;
+  }
+
+  .profile-photo img {
+    width: 60px;
+    height: 60px;
+    object-position: center 60%; /* tweak this if needed */
+    border-width: 2px;
+  }
+
+  main.content {
+    margin-left: 0;
+    padding: 20px;
+  }
+}
