@@ -9,19 +9,15 @@ header {
 </style>
 
 [Home](index.md) | [About](about.md) | [Contact](contact.md) | [Projects](projects.md)
-<br>
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <img src="images/Ramesh.T_Photo.jpg" alt="Ramesh pic" style="width: 220px; border-radius: 10px;">
 
-  <div>
-    <h1>About Me</h1>
-    <p>Hello! I’m <strong>Ramesh</strong>, a passionate <strong>Technical Writer</strong> with a focus on creating clear, concise, and user-friendly documentation. Currently, I’m working at <strong>Thryve Digital Health LLP</strong> where I specialize in <strong>structured authoring</strong>, <strong>technical documentation</strong>, and <strong>content strategy</strong>.</p>
+# About me
 
-    <p>I have a strong interest in making complex technical concepts more accessible to a wider audience. Over the years, I’ve had the opportunity to work with various authoring tools and collaborate with diverse teams, ensuring the best documentation practices are followed.</p>
-  </div>
+<img src="images/Ramesh.T_Photo.jpg" alt="My Image" width="130"/>
 
-</div>
 
+Hello! I’m **Ramesh**, a passionate **Technical Writer** with a focus on creating clear, concise, and user-friendly documentation. Currently, I’m working at **Thryve Digital Health LLP** where I specialize in **structured authoring, technical documentation**, and **content strategy**.
+
+I have a strong interest in making complex technical concepts more accessible to a wider audience. Over the years, I’ve had the opportunity to work with various authoring tools and collaborate with diverse teams, ensuring the best documentation practices are followed.
 
 ## My Journey
 
