@@ -10,4 +10,4 @@ I'm available for professional opportunities, collaborations, and documentation 
 - 📞 **Phone**: +91-8148955228
 - 📧 **Email**: [rameshtm95@gmail.com](mailto:rameshtm95@gmail.com)
 - 📍 **Location**: Chennai, Tamil Nadu, India
-- 💼 **LinkedIn**: [click here](https://www.linkedin.com/in/ramesh-t-3750a0147/) to visit my LinkedIn Profile
+- 💼 **LinkedIn**: Visit my LinkedIn [Profile](https://www.linkedin.com/in/ramesh-t-3750a0147/)
