@@ -3,26 +3,21 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Side Navigation Layout</title>
-  <link rel="stylesheet" href="style.css" />
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
 </head>
 <body>
-
-  <aside class="sidebar">
-    <div class="logo">MySite</div>
-    <nav>
-      <a href="#" class="active">Home</a>
-      <a href="#">About</a>
-      <a href="#">Services</a>
-      <a href="#">Portfolio</a>
-      <a href="#">Contact</a>
+  <div class="container">
+    <nav class="sidebar">
+      <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a>
+      <a href="{{ '/about' | relative_url }}" class="{% if page.url == '/about/' %}active{% endif %}">About</a>
+      <a href="{{ '/projects' | relative_url }}" class="{% if page.url == '/projects/' %}active{% endif %}">Projects</a>
+      <a href="{{ '/contact' | relative_url }}" class="{% if page.url == '/contact/' %}active{% endif %}">Contact</a>
     </nav>
-  </aside>
-
-  <main class="main-content">
-    <h1>Welcome to MySite</h1>
-    <p>This is the main content area. You can add your text, images, or other elements here.</p>
-  </main>
-
+    <main class="content">
+      {{ content }}
+    </main>
+  </div>
 </body>
 </html>
+
