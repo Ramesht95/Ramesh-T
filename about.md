@@ -3,8 +3,6 @@ layout: default
 title: About
 ---
 
-[Home](index.md) | [About](about.md) | [Contact](contact.md) | [Projects](projects.md)
-
 # About me
 
 <img src="images/Ramesh.T_Photo.jpg" alt="My Image" width="130"/>
