@@ -11,6 +11,8 @@ title: Projects
 
 <p>This section describes a sample concept topic created to demonstrate my understanding of technical documentation practices.</p>
 
+<h2>Overview of Chat in Microsoft Teams</h2>
+
 <p> Chat enables you to communicate with other users through text messages. You can chat privately or in a group. The Chat feature enables you to share files, such as images, videos, and attachments. This feature enables you to format text, insert tables, use bullets, and more before sending a message to enhance readability. You have options to share your emotions using emojis, stickers, and GIFs. With these features, Chat enhances communication and collaboration.</p>
 
   <p><strong>Key Features</strong></p>
@@ -33,7 +35,7 @@ title: Projects
 </details>
 
 <details>
-  <summary><strong>Task Topic</strong></summary>
+  <summary><span style="font-size: 1.5em; font-weight: bold;">Task Topic</span></summary>
   <p>This section describes a sample task topic created to demonstrate my understanding of technical documentation practices.</p>
 
   ### Overview of Chat in Microsoft Teams
@@ -73,25 +75,9 @@ title: Projects
 </details>
 
 <details>
-  <summary><strong>Quick Start Guide</strong></summary>
+  <summary><span style="font-size: 1.5em; font-weight: bold;">Quick Start Guide</span></summary>
   <p>This guide helps new users quickly get started with the product or feature, providing clear setup instructions and examples.</p>
 </details>
-
-# Concept Topic
-
-<iframe src="documents/Concept%20topic.pdf" width="90%" height="600px">
-    This browser does not support PDFs. Please download the PDF to view it:
-    <a href="documents/Concept%20topic.pdf">Download PDF</a>.
-</iframe>
-
-# Task Topic
-
-<iframe src="documents/Task%20topic.pdf" width="90%" height="600px">
-    This browser does not support PDFs. Please download the PDF to view it:
-    <a href="documents/Task%20topic.pdf">Download PDF</a>.
-</iframe>
-
-# Quick Start Guide
 
 <iframe src="documents/Quick%20Start%20Guide.pdf" width="90%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it:
