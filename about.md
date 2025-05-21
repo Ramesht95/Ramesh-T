@@ -33,7 +33,7 @@ The Salem Polytechnic College, Salem
 
 Pursued this certification as part of my professional development to deepen my understanding of documentation standards, refine my writing style, and stay current with industry tools and best practices. The program offered hands-on assignments, peer reviews, and expert guidance that enriched my experience as a practicing technical writer.
 
-<iframe src="documents/Ramesh_TWT_Cert.pdf" width="50%" height="600px">
+<iframe src="documents/Ramesh_TWT_Cert.pdf" width="60%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it:
     <a href="documents/Ramesh_TWT_Cert.pdf">Download PDF</a>.
 </iframe>
@@ -43,7 +43,7 @@ Pursued this certification as part of my professional development to deepen my u
 
 Completed the Advanced Unit with a typing speed of 34 WPM and an accuracy of 96%. Pursuing this certification helped me improve my typing efficiency and accuracy, which supports my day-to-day responsibilities as a technical writer.
 
-<iframe src="documents/Touch_typing_Cert.pdf" width="50%" height="600px">
+<iframe src="documents/Touch_typing_Cert.pdf" width="60%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it:
     <a href="documents/Touch_typing_Cert.pdf">Download PDF</a>.
 </iframe>
