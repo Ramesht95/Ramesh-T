@@ -7,11 +7,11 @@ title: Projects
 > **Note:** Since actual work samples cannot be shared due to confidentiality, I have created the following sample documents to showcase my writing skills.
 
 <details>
-<summary><span style="font-size: 1.2em; font-weight: bold;">Concept Topic</span></summary>
+<summary><span style="font-size: 1.4em; font-weight: bold;">Concept Topic</span></summary>
 
 <p>This section describes a sample concept topic created to demonstrate my understanding of technical documentation practices.</p>
 
-<h3>Overview of Chat in Microsoft Teams</h3>
+<h2>Overview of Chat in Microsoft Teams</h2>
 
 <p> Chat enables you to communicate with other users through text messages. You can chat privately or in a group. The Chat feature enables you to share files, such as images, videos, and attachments. This feature enables you to format text, insert tables, use bullets, and more before sending a message to enhance readability. You have options to share your emotions using emojis, stickers, and GIFs. With these features, Chat enhances communication and collaboration.</p>
 
