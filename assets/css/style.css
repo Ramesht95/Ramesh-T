@@ -158,4 +158,13 @@ main.content h3 {
   border: 0;
   border-top: 1px solid #FFFFFF33; /* subtle white line */
   margin: 10px 0 20px 0;
+  display: block;
 }
+
+/* Hide divider on mobile view */
+@media (max-width: 768px) {
+  .sidebar-divider {
+    display: none;
+  }
+}
+
