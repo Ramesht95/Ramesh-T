@@ -26,13 +26,13 @@ Rajalakshmi Engineering College, Chennai
 The Salem Polytechnic College, Salem  
 2010 - 2013
 
-# Certifications
+## Certifications
 
 **Technical Writing Certification Course** - **Tech Writer’s Tribe**
 
 Pursued this certification as part of my professional development to deepen my understanding of documentation standards, refine my writing style, and stay current with industry tools and best practices. The program offered hands-on assignments, peer reviews, and expert guidance that enriched my experience as a practicing technical writer.
 
-<iframe src="documents/Ramesh_TWT_Cert.pdf" width="90%" height="600px">
+<iframe src="documents/Ramesh_TWT_Cert.pdf" width="100%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it:
     <a href="documents/Ramesh_TWT_Cert.pdf">Download PDF</a>.
 </iframe>
@@ -41,10 +41,19 @@ Pursued this certification as part of my professional development to deepen my u
 
 Completed the Advanced Unit with a typing speed of 34 WPM and an accuracy of 96%. Pursuing this certification helped me improve my typing efficiency and accuracy, which supports my day-to-day responsibilities as a technical writer.
 
-<iframe src="documents/Touch_typing_Cert.pdf" width="90%" height="600px">
+<iframe src="documents/Touch_typing_Cert.pdf" width="100%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it:
     <a href="documents/Touch_typing_Cert.pdf">Download PDF</a>.
-</iframe>
+</iframe>  
+
+**HTML Essential Training – LinkedIn Learning**  
+
+Completed this introductory course to build a basic understanding of HTML and how it is used to structure web content. The course covered fundamental topics such as elements, tags, headings, links, and formatting. While not an advanced program, it helped me become more comfortable reading and writing HTML, which supports my work in structuring technical documents and customizing content presentation.  
+
+<iframe src="documents/HTML_Cert.pdf" width="100%" height="600px">
+    This browser does not support PDFs. Please download the PDF to view it:
+    <a href="documents/HTML_Cert.pdf">Download PDF</a>.
+</iframe>  
 
 ## My Skills
 
