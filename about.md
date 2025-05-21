@@ -5,9 +5,6 @@ title: About
 
 # About me
 
-<img src="images/Ramesh.T_Photo.jpg" alt="My Image" width="130"/>
-
-
 Hello! I’m **Ramesh**, a passionate **Technical Writer** with a focus on creating clear, concise, and user-friendly documentation. Currently, I’m working at **Thryve Digital Health LLP** where I specialize in **structured authoring, technical documentation**, and **content strategy**.
 
 I have a strong interest in making complex technical concepts more accessible to a wider audience. Over the years, I’ve had the opportunity to work with various authoring tools and collaborate with diverse teams, ensuring the best documentation practices are followed.
@@ -20,17 +17,15 @@ During this time, a friend introduced me to the field of Technical Writing. He e
 
 With dedicated preparation and support, I transitioned into a new role as a **Technical Writer** at **Cognizant Technology Solutions**, Chennai. This marked a turning point in my career where I could combine my writing ability, technical curiosity, and passion for clarity into a meaningful profession.
 
-
-
 ## 🎓Education
 
 **BE - Aeronautical Engineering**   
-*Rajalakshmi Engineering College, Chennai  
-2015 - 2018*
+Rajalakshmi Engineering College, Chennai  
+2015 - 2018
 
 **Diploma in Mechanical Engineering**   
-*The Salem Polytechnic College, Salem  
-2010 - 2013*
+The Salem Polytechnic College, Salem  
+2010 - 2013
 
 ## 📜 Certifications
 
@@ -65,7 +60,6 @@ Completed the Advanced Unit with a typing speed of 34 WPM and an accuracy of 96%
 
 What excites me the most about my profession is the impact it has on making technology accessible to everyone, regardless of their technical expertise. Great documentation is the bridge between complex software products and the end users. My goal is to help users understand, troubleshoot, and make the most out of the products they use.
 
-## 📝 Testimonials
 
 Thank you for visiting my page!
 
