@@ -168,3 +168,18 @@ main.content h3 {
   }
 }
 
+details {
+  margin-bottom: 1.5em;
+  padding: 0.75em;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  background-color: #fff;
+}
+
+summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: #1A2A47;
+  margin-bottom: 0.5em;
+}
+
