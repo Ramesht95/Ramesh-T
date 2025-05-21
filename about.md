@@ -2,6 +2,9 @@
 layout: default
 title: About
 ---
+<div style="overflow:hidden; white-space: nowrap; font-size: 0.9rem; color: #666; animation: marquee 30s linear infinite;">
+  Passionate about clear writing & simplifying complex tech info • Always learning & evolving • Let's build great docs together!
+</div>
 
 # About Me
 
