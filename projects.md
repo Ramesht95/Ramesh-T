@@ -7,11 +7,11 @@ title: Projects
 > **Note:** Since actual work samples cannot be shared due to confidentiality, I have created the following sample documents to showcase my writing skills.
 
 <details>
-<summary><span style="font-size: 1.5em; font-weight: bold;">Concept Topic</span></summary>
+<summary><span style="font-size: 1em; font-weight: bold;">Concept Topic</span></summary>
 
 <p>This section describes a sample concept topic created to demonstrate my understanding of technical documentation practices.</p>
 
-<h2>Overview of Chat in Microsoft Teams</h2>
+<strong>Overview of Chat in Microsoft Teams</strong>
 
 <p> Chat enables you to communicate with other users through text messages. You can chat privately or in a group. The Chat feature enables you to share files, such as images, videos, and attachments. This feature enables you to format text, insert tables, use bullets, and more before sending a message to enhance readability. You have options to share your emotions using emojis, stickers, and GIFs. With these features, Chat enhances communication and collaboration.</p>
 
@@ -35,16 +35,17 @@ title: Projects
 </details>
 
 <details>
-  <summary><span style="font-size: 1.5em; font-weight: bold;">Task Topic</span></summary>
+  <summary><span style="font-size: 1em; font-weight: bold;">Task Topic</span></summary>
   <p>This section describes a sample task topic created to demonstrate my understanding of technical documentation practices.</p>
 
-  #### Overview of Chat in Microsoft Teams
+ <strong>Share an Attachment in Microsoft Teams with a Contact</strong>
+ <br>
   Sign in to MS Teams and share an attachment with a contact. You can share attachments, such as Word documents, spreadsheets, presentations, PDFs, and media files. 
   
-  **Prerequisites**
-  - Access to MS Teams
-  - Name of the contact
-  
+  <strong>Prerequisites</strong>
+  <ul>Access to MS Teams</ul>
+  <ul>Name of the contact</ul>
+  <br>
   To share,
 
   1. On your Desktop/Laptop, sign in to MS Teams.
@@ -75,7 +76,7 @@ title: Projects
 </details>
 
 <details>
-  <summary><span style="font-size: 1.5em; font-weight: bold;">Quick Start Guide</span></summary>
+  <summary><span style="font-size: 1em; font-weight: bold;">Quick Start Guide</span></summary>
   <p>This guide helps new users quickly get started with the product or feature, providing clear setup instructions and examples.</p>
 
   <iframe src="documents/Quick%20Start%20Guide.pdf" width="90%" height="600px">
