@@ -11,7 +11,7 @@ title: Projects
 
 <p>This section describes a sample concept topic created to demonstrate my understanding of technical documentation practices.</p>
 
-<h2>Overview of Chat in Microsoft Teams</h2>
+<h3>Overview of Chat in Microsoft Teams</h3>
 
 <p> Chat enables you to communicate with other users through text messages. You can chat privately or in a group. The Chat feature enables you to share files, such as images, videos, and attachments. This feature enables you to format text, insert tables, use bullets, and more before sending a message to enhance readability. You have options to share your emotions using emojis, stickers, and GIFs. With these features, Chat enhances communication and collaboration.</p>
 
@@ -38,7 +38,7 @@ title: Projects
   <summary><span style="font-size: 1.2em; font-weight: bold;">Task Topic</span></summary>
   <p>This section describes a sample task topic created to demonstrate my understanding of technical documentation practices.</p>
 
-  ### Overview of Chat in Microsoft Teams
+  #### Overview of Chat in Microsoft Teams
   Sign in to MS Teams and share an attachment with a contact. You can share attachments, such as Word documents, spreadsheets, presentations, PDFs, and media files. 
   
   **Prerequisites**
