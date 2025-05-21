@@ -13,6 +13,8 @@
     <img src="{{ '/images/Ramesh.T_Photo.jpg' | relative_url }}" alt="Ramesh's Photo" />
   </div>
 
+   <hr class="sidebar-divider" />
+   
   <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' or page.url == '/index.html' %}active{% endif %}">Home</a>
   <a href="{{ '/about' | relative_url }}" class="{% if page.url contains '/about' %}active{% endif %}">About</a>
   <a href="{{ '/projects' | relative_url }}" class="{% if page.url contains '/projects' %}active{% endif %}">Projects</a>

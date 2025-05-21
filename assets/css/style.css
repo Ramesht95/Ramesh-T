@@ -152,3 +152,10 @@ main.content h3 {
   margin-top: 1.5em;
   margin-bottom: 0.5em;
 }
+
+.sidebar-divider {
+  width: 80%;
+  border: 0;
+  border-top: 1px solid #FFFFFF33; /* subtle white line */
+  margin: 10px 0 20px 0;
+}
