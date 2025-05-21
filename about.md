@@ -37,14 +37,7 @@ Pursued this certification as part of my professional development to deepen my u
     <a href="documents/Ramesh_TWT_Cert.pdf">Download PDF</a>.
 </iframe>
 
-**Typing Speed Certification** - **Typing.com**
-
-Completed the Advanced Unit with a typing speed of 34 WPM and an accuracy of 96%. Pursuing this certification helped me improve my typing efficiency and accuracy, which supports my day-to-day responsibilities as a technical writer.
-
-<iframe src="documents/Touch_typing_Cert.pdf" width="100%" height="600px">
-    This browser does not support PDFs. Please download the PDF to view it:
-    <a href="documents/Touch_typing_Cert.pdf">Download PDF</a>.
-</iframe>  
+<br>
 
 **HTML Essential Training – LinkedIn Learning**  
 
@@ -53,6 +46,17 @@ Completed this introductory course to build a basic understanding of HTML and ho
 <iframe src="documents/HTML_Cert.pdf" width="100%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it:
     <a href="documents/HTML_Cert.pdf">Download PDF</a>.
+</iframe>  
+
+<br>
+
+**Typing Speed Certification** - **Typing.com**
+
+Completed the Advanced Unit with a typing speed of 34 WPM and an accuracy of 96%. Pursuing this certification helped me improve my typing efficiency and accuracy, which supports my day-to-day responsibilities as a technical writer.
+
+<iframe src="documents/Touch_typing_Cert.pdf" width="100%" height="600px">
+    This browser does not support PDFs. Please download the PDF to view it:
+    <a href="documents/Touch_typing_Cert.pdf">Download PDF</a>.
 </iframe>  
 
 ## My Skills
