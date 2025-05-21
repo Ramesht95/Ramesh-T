@@ -3,7 +3,36 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Professional Portfolio
+<!-- Marquee Banner -->
+<style>
+.marquee-container {
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  background-color: #0077cc;
+  color: white;
+  padding: 1rem 0;
+  font-size: 1.5rem;
+  font-weight: bold;
+  border-radius: 0 0 10px 10px;
+}
+
+.marquee-text {
+  display: inline-block;
+  padding-left: 100%;
+  animation: marquee 10s linear infinite;
+}
+
+@keyframes marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-100%); }
+}
+</style>
+
+<div class="marquee-container">
+  <div class="marquee-text">Welcome to My Professional Portfolio</div>
+</div>
+
 
 ## Hi there! I'm Ramesh
 
