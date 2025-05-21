@@ -3,7 +3,7 @@ layout: default
 title: Contact
 ---
 
-# Contact Me
+## Contact Me
 
 I'm available for professional opportunities, collaborations, and documentation projects in the field of technical writing. Feel free to reach out to explore how I can add value. You can contact me through the following channels:
 

@@ -5,15 +5,15 @@ title: Home
 
 # Welcome to My Professional Portfolio
 
-# Hi there! I'm Ramesh
+## Hi there! I'm Ramesh
 
 I’m a Certified Technical Writer with a passion for creating clear, concise, and user-friendly documentation. With a strong background in structured authoring and technical documentation, I specialize in simplifying complex concepts for a wide audience.
 
-# What I Do
+## What I Do
 
 I work with various teams to produce high-quality technical content, including user manuals, help guides, API documentation, and more. My goal is to make information easy to understand and accessible for everyone, whether you're an expert or a beginner.
 
-# My Skills
+## My Skills
 
 - **Technical Documentation:** Confluence, Madcap Flare, Microsoft Word, Oxygen XML Author
 
@@ -23,7 +23,7 @@ I work with various teams to produce high-quality technical content, including u
 
 - **Visual Editing:** Camtasia, Snagit
   
-# Why Choose Me?
+## Why Choose Me?
 
 - Clear and user-centric documentation
 
@@ -35,5 +35,5 @@ I work with various teams to produce high-quality technical content, including u
 
 - Collaborative team player
   
-# Current Role
+## Current Role
 I currently work as a Technical Writer at Thryve Digital Health LLP, where I contribute to creating impactful documentation that enhances user experience and supports product development.

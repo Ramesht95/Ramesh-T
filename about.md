@@ -3,13 +3,12 @@ layout: default
 title: About
 ---
 
-# About Me
-
+## About Me
 
 Hello! I’m **Ramesh**, a passionate **Technical Writer** with a focus on creating clear, concise, and user-friendly documentation. Currently, I’m working at **Thryve Digital Health LLP** where I specialize in **structured authoring, technical documentation**, and **content strategy**.  
 I have a strong interest in making complex technical concepts more accessible to a wider audience. Over the years, I’ve had the opportunity to work with various authoring tools and collaborate with diverse teams, ensuring the best documentation practices are followed.
 
-# My Journey
+## My Journey
 
 I began my career as a **Process Associate** at **Mr. Cooper**, a leading mortgage company, where I worked in the Operations Department. My responsibility was to ensure the accuracy and quality of loan-related documents, which required attention to detail, documentation skills, and process understanding.
 
@@ -17,7 +16,7 @@ During this time, a friend introduced me to the field of Technical Writing. He e
 
 With dedicated preparation and support, I transitioned into a new role as a **Technical Writer** at **Cognizant Technology Solutions**, Chennai. This marked a turning point in my career where I could combine my writing ability, technical curiosity, and passion for clarity into a meaningful profession.
 
-# Education
+## Education
 
 **BE - Aeronautical Engineering**   
 Rajalakshmi Engineering College, Chennai  
@@ -47,7 +46,7 @@ Completed the Advanced Unit with a typing speed of 34 WPM and an accuracy of 96%
     <a href="documents/Touch_typing_Cert.pdf">Download PDF</a>.
 </iframe>
 
-# My Skills
+## My Skills
 
 - **Authoring Tools**: Confluence, Madcap Flare, Microsoft Word, Oxygen XML Author
 - **Technical Skills**: XML, HTML, DITA, Agile Methodologies
@@ -55,7 +54,7 @@ Completed the Advanced Unit with a typing speed of 34 WPM and an accuracy of 96%
 - **Visual Editing Tools**: Camtasia, Snagit, Shotcut, Edraw AI, Whimsical AI
 - **Methodologies**: Structured Authoring, Single Sourcing
  
-# Why I Love Documentation
+## Why I Love Documentation
 
 What excites me the most about my profession is the impact it has on making technology accessible to everyone, regardless of their technical expertise. Great documentation is the bridge between complex software products and the end users. My goal is to help users understand, troubleshoot, and make the most out of the products they use.
 
