@@ -2,33 +2,34 @@
 layout: default
 title: Projects
 ---
-## Sample Documentation Projects
+# Sample Documentation Projects
 
 > **Note:** Since actual work samples cannot be shared due to confidentiality, I have created the following sample documents to showcase my writing skills.
 
 <details>
-  <summary><strong>Concept Topic</strong></summary>
-  <p>This section describes a sample concept topic created to demonstrate my understanding of technical documentation practices.</p>
+<summary><span style="font-size: 1.5em; font-weight: bold;">Concept Topic</span></summary>
 
-### Overview of Chat in Microsoft Teams
+<p>This section describes a sample concept topic created to demonstrate my understanding of technical documentation practices.</p>
 
-Chat enables you to communicate with other users through text messages. You can chat privately or in a group. The Chat feature enables you to share files, such as images, videos, and attachments. This feature enables you to format text, insert tables, use bullets, and more before sending a message to enhance readability. You have options to share your emotions using emojis, stickers, and GIFs. With these features, Chat enhances communication and collaboration.
+<p> Chat enables you to communicate with other users through text messages. You can chat privately or in a group. The Chat feature enables you to share files, such as images, videos, and attachments. This feature enables you to format text, insert tables, use bullets, and more before sending a message to enhance readability. You have options to share your emotions using emojis, stickers, and GIFs. With these features, Chat enhances communication and collaboration.</p>
 
-  **Key features**
-  - **Private chat:** Enables two users to exchange messages.
-  - **Group chat:** Enables more users to exchange messages as a group.
-  - **File sharing:** Allows you to share images, videos, files, and audio.
-  - **Forward:** Lets you forward a message to another user or a group.
-  - **Formatting:** Enables you to format your text style before sending a message.
-  - **Emojis:** Helps you to share your thoughts using reactions.  
-  
-  **Benefits**
-  - Instant Messaging: Send real-time messages to individuals or groups for quick communication.
-  - Access Previous Messages: Search and reference past conversations to retain context and information.
-  - Better Collaboration: Communicate efficiently with team members, enhancing collaboration across the organization.
-  - Share Media and Files: Easily exchange images, documents, and other files to support ongoing discussions. 
+  <p><strong>Key Features</strong></p>
+  <ul>
+    <li><b>Private chat:</b> Enables two users to exchange messages.</li>
+    <li><b>Group chat:</b> Enables more users to exchange messages as a group.</li>
+    <li><b>File sharing:</b> Allows you to share images, videos, files, and audio.</li>
+    <li><b>Forward:</b> Lets you forward a message to another user or a group.</li>
+    <li><b>Formatting:</b> Enables you to format your text style before sending a message.</li>
+    <li><b>Emojis:</b> Helps you to share your thoughts using reactions.</li>
+  </ul>
 
-
+  <p><strong>Benefits</strong></p>
+  <ul>
+    <li><b>Instant Messaging:</b> Send real-time messages to individuals or groups for quick communication.</li>
+    <li><b>Access Previous Messages:</b> Search and reference past conversations to retain context and information.</li>
+    <li><b>Better Collaboration:</b> Communicate efficiently with team members, enhancing collaboration across the organization.</li>
+    <li><b>Share Media and Files:</b> Easily exchange images, documents, and other files to support ongoing discussions.</li>
+  </ul>
 </details>
 
 <details>
