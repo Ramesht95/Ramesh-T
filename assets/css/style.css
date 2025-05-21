@@ -9,7 +9,7 @@
 body, html {
   height: 100%;
   background-color: #f9f9f9;
-  color: #333;
+  color: #1F2937; /* Dark slate text */
 }
 
 /* Main container */
@@ -21,8 +21,8 @@ body, html {
 /* Sidebar */
 nav.sidebar {
   width: 220px;
-  background-color: #2c3e50;
-  color: white;
+  background-color: #1A2A47; /* Dark navy blue */
+  color: #FFFFFF; /* White text */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -36,7 +36,7 @@ nav.sidebar {
 
 /* Nav links */
 nav.sidebar a {
-  color: white;
+  color: #FFFFFF; /* White links */
   padding: 15px 20px;
   text-decoration: none;
   font-weight: 600;
@@ -47,13 +47,13 @@ nav.sidebar a {
 }
 
 nav.sidebar a:hover {
-  background-color: #34495e;
-  border-left: 4px solid #e67e22;
+  background-color: #3B5998; /* Medium blue */
+  border-left: 4px solid #007BFF; /* Bright blue border */
 }
 
 nav.sidebar a.active {
-  background-color: #e67e22;
-  border-left: 4px solid #d35400;
+  background-color: #007BFF; /* Bright blue active */
+  border-left: 4px solid #0056b3; /* Darker blue border */
 }
 
 /* Profile photo */
@@ -68,8 +68,8 @@ nav.sidebar a.active {
   border-radius: 50%;
   object-fit: cover;
   object-position: center 25%;
-  border: 3px solid #e67e22;
-  box-shadow: 0 0 8px rgba(0,0,0,0.15);
+  border: 3px solid #007BFF; /* Bright blue border */
+  box-shadow: 0 0 8px rgba(0, 123, 255, 0.4); /* subtle blue glow */
 }
 
 /* Content */
@@ -77,15 +77,16 @@ main.content {
   margin-left: 220px;
   padding: 40px;
   flex: 1;
-  background-color: white;
+  background-color: #FFFFFF; /* White background */
+  color: #1F2937; /* Dark slate text */
   min-height: 100vh;
-  box-shadow: -2px 0 5px rgba(0,0,0,0.1);
+  box-shadow: -2px 0 5px rgba(26, 42, 71, 0.1); /* subtle navy shadow */
 }
 
 /* Headings */
 main.content h1 {
   margin-bottom: 20px;
-  color: #2c3e50;
+  color: #1A2A47; /* Navy blue */
 }
 
 /* Responsive for tablets and mobile */
@@ -112,11 +113,12 @@ main.content h1 {
     border-left: none;
     border-bottom: 4px solid transparent;
     flex: 1;
+    color: #FFFFFF; /* Keep white text */
   }
 
   nav.sidebar a:hover,
   nav.sidebar a.active {
-    border-bottom: 4px solid #e67e22;
+    border-bottom: 4px solid #007BFF;
     background-color: transparent;
   }
 
@@ -128,8 +130,9 @@ main.content h1 {
     width: 50px;
     height: 50px;
     object-fit: cover;
-    object-position: center 25%; /* or center 60%, adjust as needed */
+    object-position: center 25%;
     border-width: 2px;
+    border-color: #007BFF; /* Bright blue border */
   }
 
   main.content {
@@ -149,4 +152,3 @@ main.content h3 {
   margin-top: 1.5em;
   margin-bottom: 0.5em;
 }
-
