@@ -27,17 +27,31 @@ title: Home
   0% { transform: translateX(0); }
   100% { transform: translateX(-100%); }
 }
+
+.hero {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 0.3rem;
+  font-weight: 700;
+}
+
+.hero h2 {
+  font-size: 2rem;
+  color: #555;
+  margin-top: 0;
+  font-weight: 400;
+}
 </style>
 
 <div class="marquee-container">
   <div class="marquee-text">Welcome to My Professional Portfolio</div>
 </div>
 
-
-## Hi there! I'm Ramesh
-
-I’m a Certified Technical Writer with a passion for creating clear, concise, and user-friendly documentation. With a strong background in structured authoring and technical documentation, I specialize in simplifying complex concepts for a wide audience.
-
-## What I Do
-
-I work with various teams to produce high-quality technical content, including user manuals, help guides, API documentation, and more. My goal is to make information easy to understand and accessible for everyone, whether you're an expert or a beginner.
+<div class="hero">
+  <h1>I AM RAMESH THANGAMANI</h1>
+  <h2>TECHNICAL WRITER</h2>
+</div>
