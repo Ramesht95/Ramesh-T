@@ -52,6 +52,6 @@ title: Home
 </div>
 
 <div class="hero">
-  <h1>HELLO, I'M RAMESH THANGAMANI</h1>
+  <h1>HELLO, I'm RAMESH THANGAMANI</h1>
   <h2>TECHNICAL WRITER</h2>
 </div>
