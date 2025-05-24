@@ -214,3 +214,11 @@ summary {
   line-height: 1.1;  /* tighter line height */
   padding: 0;        /* remove any padding */
 }
+
+marquee {
+  display: block;  /* force block so it behaves like a block element */
+  margin: 0;
+  padding: 0;
+  height: auto;    /* or set a fixed height */
+  line-height: normal;
+}
