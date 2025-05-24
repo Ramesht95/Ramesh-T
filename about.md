@@ -8,6 +8,13 @@ title: About
 Hello! I’m **Ramesh**, a passionate **Technical Writer** with a focus on creating clear, concise, and user-friendly documentation. Currently, I’m working at **Thryve Digital Health LLP** where I specialize in **structured authoring, technical documentation**, and **content strategy**.  
 I have a strong interest in making complex technical concepts more accessible to a wider audience. Over the years, I’ve had the opportunity to work with various authoring tools and collaborate with diverse teams, ensuring the best documentation practices are followed.
 
+## Why Choose Me?
+- Clear and user-centric documentation
+- Expertise in structured authoring
+- Proficiency in industry-standard tools
+- Ability to adapt to different styles and formats
+- Collaborative team player  
+
 ## My Journey
 
 I began my career as a **Process Associate** at **Mr. Cooper**, a leading mortgage company, where I worked in the Operations Department. My responsibility was to ensure the accuracy and quality of loan-related documents, which required attention to detail, documentation skills, and process understanding.
