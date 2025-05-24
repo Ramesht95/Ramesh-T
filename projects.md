@@ -17,20 +17,20 @@ title: Projects
 
   <p><strong>Key Features</strong></p>
   <ul>
-    <li><b>Private chat:</b> Enables two users to exchange messages.</li>
-    <li><b>Group chat:</b> Enables more users to exchange messages as a group.</li>
-    <li><b>File sharing:</b> Allows you to share images, videos, files, and audio.</li>
-    <li><b>Forward:</b> Lets you forward a message to another user or a group.</li>
-    <li><b>Formatting:</b> Enables you to format your text style before sending a message.</li>
-    <li><b>Emojis:</b> Helps you to share your thoughts using reactions.</li>
+      <li><b>Private chat:</b> Enables two users to exchange messages.</li>
+      <li><b>Group chat:</b> Enables more users to exchange messages as a group.</li>
+      <li><b>File sharing:</b> Allows you to share images, videos, files, and audio.</li>
+     <li><b>Forward:</b> Lets you forward a message to another user or a group.</li>
+      <li><b>Formatting:</b> Enables you to format your text style before sending a message.</li>
+      <li><b>Emojis:</b> Helps you to share your thoughts using reactions.</li>
   </ul>
 
   <p><strong>Benefits</strong></p>
   <ul>
-    <li><b>Instant Messaging:</b> Send real-time messages to individuals or groups for quick communication.</li>
-    <li><b>Access Previous Messages:</b> Search and reference past conversations to retain context and information.</li>
-    <li><b>Better Collaboration:</b> Communicate efficiently with team members, enhancing collaboration across the organization.</li>
-    <li><b>Share Media and Files:</b> Easily exchange images, documents, and other files to support ongoing discussions.</li>
+     <li><b>Instant Messaging:</b> Send real-time messages to individuals or groups for quick communication.</li>
+      <li><b>Access Previous Messages:</b> Search and reference past conversations to retain context and information.</li>
+      <li><b>Better Collaboration:</b> Communicate efficiently with team members, enhancing collaboration across the organization.</li>
+      <li><b>Share Media and Files:</b> Easily exchange images, documents, and other files to support ongoing discussions.</li>
   </ul>
 </details>
 
