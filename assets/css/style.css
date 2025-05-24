@@ -183,13 +183,17 @@ summary {
   margin-bottom: 0.5em;
 }
 
- main.content h1 {
-    font-size: 1.8rem;
+@media (min-width: 769px) {
+  main.content h1 {
+    font-size: 2.5rem;
   }
+
   main.content h2 {
-    font-size: 1.4rem;
+    font-size: 2rem;
   }
+
   main.content p {
-    font-size: 1rem;
+    font-size: 1.125rem;
   }
+}
 
