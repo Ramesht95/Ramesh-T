@@ -197,3 +197,6 @@ summary {
   }
 }
 
+summary::marker {
+  margin-right: 8px;
+}

@@ -7,7 +7,7 @@ title: Projects
 > **Note:** Since actual work samples cannot be shared due to confidentiality, I have created the following sample documents to showcase my writing skills.
 
 <details>
-<summary><span style="margin-left: 8px; font-size: 1em; font-weight: bold;">Concept Topic</span></summary>
+<summary><span style="font-size: 1em; font-weight: bold;">Concept Topic</span></summary>
 
 <p>This section describes a sample concept topic created to demonstrate my understanding of technical documentation practices.</p>
 
@@ -35,7 +35,7 @@ title: Projects
 </details>
 
 <details>
-  <summary><span style="margin-left: 8px; font-size: 1em; font-weight: bold;">Task Topic</span></summary>
+  <summary><span style="font-size: 1em; font-weight: bold;">Task Topic</span></summary>
   <p>This section describes a sample task topic created to demonstrate my understanding of technical documentation practices.</p>
 
  <strong>Share an Attachment in Microsoft Teams with a Contact</strong>
@@ -76,7 +76,7 @@ title: Projects
 </details>
 
 <details>
-  <summary><span style="margin-left: 8px; font-size: 1em; font-weight: bold;">Reference Topic</span></summary>
+  <summary><span style="font-size: 1em; font-weight: bold;">Reference Topic</span></summary>
   <p>This guide helps new users quickly get started with the product or feature, providing clear setup instructions and examples.</p>
 
   <iframe src="documents/Quick%20Start%20Guide.pdf" width="90%" height="600px">
@@ -87,7 +87,7 @@ title: Projects
 </details>
 
 <details>
-  <summary><span style="margin-left: 8px; font-size: 1em; font-weight: bold;">Quick Start Guide</span></summary>
+  <summary><span style="font-size: 1em; font-weight: bold;">Quick Start Guide</span></summary>
   <p>This guide helps new users quickly get started with the product or feature, providing clear setup instructions and examples.</p>
 
   <iframe src="documents/Quick%20Start%20Guide.pdf" width="90%" height="600px">
