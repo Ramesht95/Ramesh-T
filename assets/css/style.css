@@ -183,3 +183,13 @@ summary {
   margin-bottom: 0.5em;
 }
 
+ main.content h1 {
+    font-size: 1.8rem;
+  }
+  main.content h2 {
+    font-size: 1.4rem;
+  }
+  main.content p {
+    font-size: 1rem;
+  }
+
