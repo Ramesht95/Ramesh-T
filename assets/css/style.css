@@ -196,25 +196,3 @@ summary {
     font-size: 1.125rem;
   }
 }
-
-summary {
-  list-style: none; /* hides default arrow */
-  cursor: pointer;
-  position: relative;
-  padding-left: 20px; /* space for custom arrow */
-}
-
-summary::before {
-  content: '▶'; /* or ▼ for open */
-  position: absolute;
-  left: 0;
-  top: 0;
-  color: #1A2A47;
-  transform-origin: center;
-  transition: transform 0.2s ease;
-}
-
-details[open] summary::before {
-  transform: rotate(90deg);
-}
-
