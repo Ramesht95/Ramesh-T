@@ -54,4 +54,5 @@ title: Home
 <div class="hero">
   <h1>HELLO, I'm RAMESH THANGAMANI</h1>
   <h2>TECHNICAL WRITER</h2>
+  <p><em>A passionate technical writer specializing in clear, concise documentation that helps users succeed.</em></p>
 </div>
