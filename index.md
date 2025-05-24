@@ -56,3 +56,5 @@ title: Home
   <h2>TECHNICAL WRITER</h2>
   <p><em>A passionate technical writer specializing in clear, concise documentation that helps users succeed.</em></p>
 </div>
+
+![Image](/images/TW%20illurstration.jpg)
