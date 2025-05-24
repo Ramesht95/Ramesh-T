@@ -58,7 +58,7 @@ title: Home
 </div>
 
 <div style="text-align: center; margin-top: 2rem;">
-  <img src="/images/TW%20illurstration.jpg" alt="Technical Writing Illustration"
+  <img src="images/TW_illurstration.jpg" alt="Technical Writing Illustration"
        style="max-width: 90%; height: auto; max-height: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
