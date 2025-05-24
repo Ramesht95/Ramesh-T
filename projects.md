@@ -76,6 +76,17 @@ title: Projects
 </details>
 
 <details>
+  <summary><span style="font-size: 1em; font-weight: bold;">Reference Topic</span></summary>
+  <p>This guide helps new users quickly get started with the product or feature, providing clear setup instructions and examples.</p>
+
+  <iframe src="documents/Quick%20Start%20Guide.pdf" width="90%" height="600px">
+    This browser does not support PDFs. Please download the PDF to view it:
+    <a href="documents/Quick%20Start%20Guide.pdf">Download PDF</a>.
+</iframe>
+
+</details>
+
+<details>
   <summary><span style="font-size: 1em; font-weight: bold;">Quick Start Guide</span></summary>
   <p>This guide helps new users quickly get started with the product or feature, providing clear setup instructions and examples.</p>
 
@@ -86,4 +97,14 @@ title: Projects
 
 </details>
 
+<details>
+  <summary><span style="font-size: 1em; font-weight: bold;">Release Notes</span></summary>
+  <p>This guide helps new users quickly get started with the product or feature, providing clear setup instructions and examples.</p>
+
+  <iframe src="documents/Quick%20Start%20Guide.pdf" width="90%" height="600px">
+    This browser does not support PDFs. Please download the PDF to view it:
+    <a href="documents/Quick%20Start%20Guide.pdf">Download PDF</a>.
+</iframe>
+
+</details>
 
