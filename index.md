@@ -35,6 +35,7 @@ title: Home
 
 .hero h1 {
   font-size: 3rem;
+  margin-top: 0;
   margin-bottom: 0.3rem;
   font-weight: 700;
 }
@@ -43,6 +44,7 @@ title: Home
   font-size: 2rem;
   color: #555;
   margin-top: 0;
+  margin-bottom: 1rem;
   font-weight: 400;
 }
 </style>
