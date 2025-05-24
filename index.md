@@ -57,4 +57,4 @@ title: Home
   <p><em>A passionate technical writer specializing in clear, concise documentation that helps users succeed.</em></p>
 </div>
 
-![Image](/images/TW%20illurstration.jpg)
+![Image](images/TW%20illurstration.jpg)
