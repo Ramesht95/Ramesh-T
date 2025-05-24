@@ -209,3 +209,8 @@ summary {
     margin-bottom: 0.5rem;
   }
 }
+
+.hero h1, .hero h2 {
+  line-height: 1.1;  /* tighter line height */
+  padding: 0;        /* remove any padding */
+}
