@@ -30,7 +30,7 @@ title: Home
 
 .hero {
   text-align: center;
-  margin-top: 0.5rem;
+  margin-top: 0rem;
 }
 
 .hero h1 {
