@@ -197,14 +197,15 @@ summary {
   }
 }
 
-/* Responsive font size for smaller screens */
 @media (max-width: 768px) {
   .hero h1 {
     font-size: 2rem;
+    margin-top: 0.1rem;
     margin-bottom: 0.2rem;
   }
   .hero h2 {
     font-size: 1.5rem;
-    margin-bottom: 0.8rem;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
   }
 }

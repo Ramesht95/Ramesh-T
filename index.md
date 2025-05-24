@@ -34,17 +34,17 @@ title: Home
 }
 
 .hero h1 {
-  font-size: 3rem;
-  margin-top: 0;
-  margin-bottom: 0.3rem;
+  margin-top: 0.2rem;      /* smaller top margin */
+  margin-bottom: 0.3rem;   /* keep small bottom margin */
+  font-size: 3rem;         /* desktop font size */
   font-weight: 700;
 }
 
 .hero h2 {
-  font-size: 2rem;
+  margin-top: 0;           /* remove extra top margin */
+  margin-bottom: 0.5rem;   /* spacing below */
+  font-size: 2rem;         /* desktop font size */
   color: #555;
-  margin-top: 0;
-  margin-bottom: 1rem;
   font-weight: 400;
 }
 </style>
