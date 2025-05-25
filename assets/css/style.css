@@ -251,19 +251,31 @@ summary {
 }
 @media (max-width: 768px) {
   .profile-photo a {
-    outline: none;
-    border: none;
-    box-shadow: none;
-    -webkit-tap-highlight-color: transparent;
+    -webkit-tap-highlight-color: transparent; /* Disable highlight on iOS/Android */
+    outline: none !important;
+    border: none !important;
+    box-shadow: none !important;
+    background-color: transparent !important;
+    display: inline-block;
   }
 
   .profile-photo a:focus,
-  .profile-photo a:hover {
-    outline: none;
-    border: none;
-    box-shadow: none;
+  .profile-photo a:hover,
+  .profile-photo a:active {
+    outline: none !important;
+    border: none !important;
+    box-shadow: none !important;
+    background-color: transparent !important;
+  }
+
+  .profile-photo a img {
+    border: none !important;
+    box-shadow: none !important;
+    outline: none !important;
+    background-color: transparent !important;
   }
 }
+
 
 
 

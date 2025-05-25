@@ -16,7 +16,7 @@ I have a strong interest in making complex technical concepts more accessible to
 - **Visual Editing Tools**: Camtasia, Snagit, Shotcut
 
 
-## Why I Love Documentation
+## Why I Love Documentation?
 
 What excites me the most about my profession is the impact it has on making technology accessible to everyone, regardless of their technical expertise. Great documentation is the bridge between complex software products and the end users. My goal is to help users understand, troubleshoot, and make the most out of the products they use.
 
