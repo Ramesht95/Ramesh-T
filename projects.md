@@ -7,40 +7,40 @@ title: Projects
 > **Note:** Since actual work samples cannot be shared due to confidentiality, I have created the following sample documents to showcase my writing skills.
 
 <details>
-<summary><span style="font-size: 1em; font-weight: bold;">Concept Topic</span></summary>  
-<br>
+  <summary><strong>Concept Topic</strong></summary>
+  <br>
 
-**Title:** Overview of Chat in Microsoft Teams  
-**Tools Used:** Microsoft Word (Authoring), Draw.io (illustration)
+  <p><strong>Title:</strong> Overview of Chat in Microsoft Teams</p>
+  <p><strong>Tools Used:</strong> Microsoft Word (Authoring), Draw.io (Illustration)</p>
 
-**Project Overview:**  
-This is a sample document created to illustrate a concept topic on the Chat feature in Microsoft Teams.
+  <p><strong>Project Overview:</strong><br>
+  This is a sample document created to illustrate a concept topic on the Chat feature in Microsoft Teams.</p>
 
-  <iframe src="documents/Concept_Topic.pdf" width="90%" height="600px">
+  <iframe src="documents/Concept_Topic.pdf" width="90%" height="600px" style="border: 1px solid #ccc;">
     This browser does not support PDFs. Please download the PDF to view it:
     <a href="documents/Concept_Topic.pdf">Download PDF</a>.
-</iframe>
+  </iframe>
 
-<br>
-
+  <br>
 </details>
+
 
 <details>
-  <summary><span style="font-size: 1em; font-weight: bold;">Task Topic</span></summary>
-<br>  
+  <summary><strong>Task Topic</strong></summary>
+  <br>
 
-**Title:** Share an Attachment in Microsoft Teams with a Contact  
-**Tools Used:** Microsoft Word (Authoring)
+  <p><strong>Title:</strong> Share an Attachment in Microsoft Teams with a Contact</p>
+  <p><strong>Tools Used:</strong> Microsoft Word (Authoring)</p>
 
-**Project Overview:**  
-This section describes a sample task topic created to demonstrate my understanding of technical documentation practices.
+  <p><strong>Project Overview:</strong><br>
+  This section describes a sample task topic created to demonstrate my understanding of technical documentation practices.</p>
 
-  <iframe src="documents/Task_Topic.pdf" width="90%" height="600px">
+  <iframe src="documents/Task_Topic.pdf" width="90%" height="600px" style="border: 1px solid #ccc;">
     This browser does not support PDFs. Please download the PDF to view it:
     <a href="documents/Task_Topic.pdf">Download PDF</a>.
-</iframe>
-
+  </iframe>
 </details>
+
 
 <details>
   <summary><span style="font-size: 1em; font-weight: bold;">Reference Topic</span></summary>
