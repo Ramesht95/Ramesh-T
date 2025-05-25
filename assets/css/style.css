@@ -211,14 +211,19 @@ summary {
 }
 
 .hero h1, .hero h2 {
-  line-height: 1.1;  /* tighter line height */
-  padding: 0;        /* remove any padding */
+  line-height: 1.1;
+  padding: 0;
+  margin: 0;       /* Add this to remove extra margin */
 }
 
 marquee {
-  display: block;  /* force block so it behaves like a block element */
+  display: block;       /* block-level element */
   margin: 0;
   padding: 0;
-  height: auto;    /* or set a fixed height */
-  line-height: normal;
+  line-height: 1;       /* tighter line height */
+  height: 30px;         /* set fixed height matching font size */
+  overflow: hidden;     /* hide any overflow */
+  font-size: 24px;      /* example font size */
+  vertical-align: top;  /* align to top to avoid baseline spacing */
 }
+
