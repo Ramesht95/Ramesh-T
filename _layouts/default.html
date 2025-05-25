@@ -10,7 +10,9 @@
   <div class="container">
 <nav class="sidebar">
   <div class="profile-photo">
+  <a href="{{ '/' | relative_url }}">
     <img src="{{ '/images/Ramesh.T_Photo.jpg' | relative_url }}" alt="Ramesh's Photo" />
+  </a>
   </div>
 
    <hr class="sidebar-divider" />
@@ -20,8 +22,6 @@
   <a href="{{ '/projects' | relative_url }}" class="{% if page.url contains '/projects' %}active{% endif %}">Projects</a>
   <a href="{{ '/contact' | relative_url }}" class="{% if page.url contains '/contact' %}active{% endif %}">Contact</a>
 </nav>
-
-
     <main class="content">
       {{ content }}
     </main>
