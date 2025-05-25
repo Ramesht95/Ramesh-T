@@ -7,13 +7,14 @@ title: Projects
 > **Note:** Since actual work samples cannot be shared due to confidentiality, I have created the following sample documents to showcase my writing skills.
 
 <details>
-  <summary><strong>Concept Topic</strong></summary>
+  <summary><span style="font-size: 1em; font-weight: bold;">Concept Topic</span></summary>
   <br>
 
   <p><strong>Title:</strong> Overview of Chat in Microsoft Teams</p>
   <p><strong>Tools Used:</strong> Microsoft Word (Authoring), Draw.io (Illustration)</p>
 
-  <p><strong>Project Overview:</strong><br>
+  <p><strong>Project Overview:</strong><br>  
+
   This is a sample document created to illustrate a concept topic on the Chat feature in Microsoft Teams.</p>
 
   <iframe src="documents/Concept_Topic.pdf" width="90%" height="600px" style="border: 1px solid #ccc;">
@@ -26,7 +27,7 @@ title: Projects
 
 
 <details>
-  <summary><strong>Task Topic</strong></summary>
+  <summary><span style="font-size: 1em; font-weight: bold;">Task Topic</span></summary>
   <br>
 
   <p><strong>Title:</strong> Share an Attachment in Microsoft Teams with a Contact</p>
