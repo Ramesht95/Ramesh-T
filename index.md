@@ -3,56 +3,6 @@ layout: default
 title: Home
 ---
 
-<!-- Marquee Banner -->
-<style>
-.marquee-container {
-  width: 100%;
-  overflow: hidden;
-  white-space: nowrap;
-  background-color: #0077cc;
-  color: white;
-  padding: 1rem 0;
-  font-size: 1.5rem;
-  font-weight: bold;
-  border-radius: 0 0 10px 10px;
-}
-
-.marquee-text {
-  display: inline-block;
-  padding-left: 100%;
-  animation: marquee 10s linear infinite;
-}
-
-@keyframes marquee {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-100%); }
-}
-
-.hero {
-  text-align: center;
-  margin-top: 0rem;
-}
-
-.hero h1 {
-  margin-top: 0.2rem;      /* smaller top margin */
-  margin-bottom: 0.3rem;   /* keep small bottom margin */
-  font-size: 3rem;         /* desktop font size */
-  font-weight: 700;
-}
-
-.hero h2 {
-  margin-top: 0;           /* remove extra top margin */
-  margin-bottom: 0.5rem;   /* spacing below */
-  font-size: 2rem;         /* desktop font size */
-  color: #555;
-  font-weight: 400;
-}
-</style>
-
-<div class="marquee-container">
-  <div class="marquee-text">Welcome to My Professional Portfolio</div>
-</div>
-
 <div class="hero">
   <h1>HELLO, I'm RAMESH THANGAMANI</h1>
   <h2>TECHNICAL WRITER</h2>
