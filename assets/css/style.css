@@ -227,9 +227,18 @@ summary {
 }
 
 .marquee-banner {
-  border-radius: 12px !important;
-  overflow: visible !important; /* Temporarily override */
-  background-clip: padding-box; /* Ensures background respects border-radius */
+  border-radius: 12px;       /* Ensure curves stay */
+  overflow: hidden;          /* Clip contents so curves are visible */
+  max-width: 100%;           /* Don't overflow mobile screen */
+  padding: 0 10px;           /* Give slight horizontal padding */
+  box-sizing: border-box;    /* Include padding in width */
+}
+
+@media (max-width: 768px) {
+  .marquee-banner {
+    margin: 10px;       /* Small margin from screen edges */
+    border-radius: 12px; /* reaffirm */
+  }
 }
 
 .hero {
