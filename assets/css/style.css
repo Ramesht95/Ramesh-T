@@ -96,23 +96,24 @@ main.content h1 {
   }
 
  nav.sidebar {
+      nav.sidebar {
     position: relative;
     width: 100%;
     height: auto;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: space-around;
     align-items: center;
-    padding: 5px 0; /* reduced */
-    box-shadow: 0 1px 3px rgba(0,0,0,0.08); /* lighter shadow */
+    padding: 10px 0;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   }
 
   nav.sidebar a {
-    padding: 6px 8px;  /* reduced padding */
-    font-size: 13px;   /* slightly smaller font */
+    padding: 10px;
+    font-size: 14px;
     text-align: center;
     border-left: none;
-    border-bottom: 3px solid transparent; /* thinner border */
-    flex: none;
+    border-bottom: 4px solid transparent;
+    flex: 1;
     color: #FFFFFF;
   }
 
