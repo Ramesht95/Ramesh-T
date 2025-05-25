@@ -75,7 +75,7 @@ nav.sidebar a.active {
 /* Content */
 main.content {
   margin-left: 220px;
-  padding: 40px;
+  padding: 0 40px 40px 40px;
   flex: 1;
   background-color: #FFFFFF; /* White background */
   color: #1F2937; /* Dark slate text */
@@ -213,6 +213,7 @@ summary {
 .hero {
   text-align: center;
   margin-top: 0rem;
+  padding-top: 0;
 }
 
 .hero p em {
