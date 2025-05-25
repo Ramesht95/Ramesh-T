@@ -6,6 +6,7 @@ title: About
 # About Me
 
 Hello! I’m **Ramesh**, a passionate **Technical Writer** with a focus on creating clear, concise, and user-friendly documentation. Currently, I’m working at **Thryve Digital Health LLP** where I specialize in **structured authoring, technical documentation**, and **content strategy**.  
+
 I have a strong interest in making complex technical concepts more accessible to a wider audience. Over the years, I’ve had the opportunity to work with various authoring tools and collaborate with diverse teams, ensuring the best documentation practices are followed.
 
 ## My Skills
@@ -25,10 +26,15 @@ What excites me the most about my profession is the impact it has on making tech
 ## Why Choose Me?
 
    - Clear, concise, and user-focused documentation
+  
    - Strong time management and consistent deadline adherence
+  
    - Working knowledge of industry-standard tools and technologies
+  
    - Empathetic communication focused on user needs
+  
    - Adaptability to diverse documentation styles and evolving requirements
+  
    - Collaborative team player  
 
 ## My Journey
