@@ -2,6 +2,11 @@
 layout: default
 title: Home
 ---
+<div class="marquee-banner">
+  <marquee behavior="scroll" direction="left" scrollamount="6" onmouseover="this.stop();" onmouseout="this.start();">
+    Welcome to my portfolio! Explore my work and skills.
+  </marquee>
+</div>
 
 <div class="hero">
   <h1>HELLO, I'm RAMESH THANGAMANI</h1>
