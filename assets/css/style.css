@@ -202,10 +202,11 @@ summary {
     margin-bottom: 0.2rem;
   }
   .hero h2 {
-    font-size: 1.5rem;
-    margin-top: 0;
-    margin-bottom: 0.5rem;
-  }
+  font-size: 1.5rem;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-weight: 400; /* Normal weight, you can try 300 for lighter */
+}
 
   /* Disable hover/focus effect on profile photo link for mobile */
   .profile-photo a {
