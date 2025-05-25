@@ -211,19 +211,21 @@ summary {
 }
 
 .marquee-banner {
-  background-color: #007BFF; /* Bright blue background */
+  background-color: #007BFF;  /* Bright blue background */
   padding: 10px 0;
+  color: white;
+  font-weight: 600;
+  font-size: 1rem;
+  white-space: nowrap;
   overflow: hidden;
-  border-radius: 5px;
-  margin-bottom: 20px;
+  box-sizing: border-box;
 }
 
 .marquee-banner marquee {
-  color: white;
-  font-weight: 600;
-  font-size: 1.2rem;
-  white-space: nowrap;
+  display: block;
+  line-height: 1.5;
 }
+
 
 .hero {
   text-align: center;
