@@ -232,17 +232,22 @@ summary {
 }
 
 .profile-photo a {
-  display: inline-block;   /* lets border-radius work */
-  border-radius: 50%;      /* makes clickable area round */
+  display: inline-block;       /* shrink to fit image */
+  border-radius: 50%;          /* round shape */
+  overflow: hidden;            /* clip overflow to circle */
+  padding: 0;                  /* no extra padding */
+  margin: 0;                   /* no extra margin */
+  -webkit-tap-highlight-color: transparent; /* removes tap highlight on iOS/Android */
   transition: box-shadow 0.3s ease, border-color 0.3s ease;
 }
 
 .profile-photo a:hover,
 .profile-photo a:focus,
 .profile-photo a:active {
-  background-color: transparent; /* remove blue background */
-  border-color: #007BFF;          /* bright blue border */
-  box-shadow: 0 0 10px 3px rgba(0, 123, 255, 0.5); /* blue glow */
-  outline: none;                  /* removes default focus outline */
+  background-color: transparent;
+  border-color: #007BFF;
+  box-shadow: 0 0 10px 3px rgba(0, 123, 255, 0.5);
+  outline: none;
 }
+
 
