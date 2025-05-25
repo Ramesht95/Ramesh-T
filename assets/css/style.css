@@ -231,4 +231,18 @@ summary {
   margin: 0;       /* Add this to remove extra margin */
 }
 
+.profile-photo a {
+  display: inline-block;   /* lets border-radius work */
+  border-radius: 50%;      /* makes clickable area round */
+  transition: box-shadow 0.3s ease, border-color 0.3s ease;
+}
+
+.profile-photo a:hover,
+.profile-photo a:focus,
+.profile-photo a:active {
+  background-color: transparent; /* remove blue background */
+  border-color: #007BFF;          /* bright blue border */
+  box-shadow: 0 0 10px 3px rgba(0, 123, 255, 0.5); /* blue glow */
+  outline: none;                  /* removes default focus outline */
+}
 
