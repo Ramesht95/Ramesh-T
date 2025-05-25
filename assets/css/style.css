@@ -226,13 +226,20 @@ summary {
   line-height: 1.5;
 }
 
-.marquee-banner {
-  border-radius: 12px;       /* Ensure curves stay */
-  overflow: hidden;          /* Clip contents so curves are visible */
-  max-width: 100%;           /* Don't overflow mobile screen */
-  padding: 0 10px;           /* Give slight horizontal padding */
-  box-sizing: border-box;    /* Include padding in width */
+@media (min-width: 769px) {
+  .marquee {
+    background-color: #007BFF; /* blue banner */
+    padding: 0.75rem 1rem;     /* vertical and horizontal padding */
+    min-height: 40px;          /* ensures banner height */
+    line-height: 1.5;          /* text vertical spacing */
+    overflow: hidden;
+    white-space: nowrap;
+    color: white;
+    font-weight: 600;
+    border-radius: 8px;        /* if you want curved edges */
+  }
 }
+
 
 @media (max-width: 768px) {
   .marquee-banner {
