@@ -11,9 +11,12 @@ I have a strong interest in making complex technical concepts more accessible to
 
 ## My Skills
 
-- **Authoring Tools:** Confluence, MadCap Flare, Microsoft Word, Oxygen XML Author  
+- **Authoring Tools:** Confluence, MadCap Flare, Microsoft Word, Oxygen XML Author 
+   
 - **Technical Skills:** XML, HTML, DITA, Agile methodologies, Docs-as-Code (Markdown, Visual Studio Code, GitHub)  
-- **Project Management:** Jira, GitHub, SharePoint  
+
+- **Project Management:** Jira, GitHub, SharePoint 
+ 
 - **Visual Editing Tools:** Snagit, Camtasia, Shotcut
 
 
@@ -23,17 +26,17 @@ What excites me the most about my profession is the impact it has on making tech
 
 ## Why Choose Me?
 
-   - Clear, concise, and user-focused documentation
+- Clear, concise, and user-focused documentation
   
-   - Strong time management and consistent deadline adherence
+- Strong time management and consistent deadline adherence
   
-   - Working knowledge of industry-standard tools and technologies
+- Working knowledge of industry-standard tools and technologies
   
-   - Empathetic communication focused on user needs
+- Empathetic communication focused on user needs
   
-   - Adaptability to diverse documentation styles and evolving requirements
+- Adaptability to diverse documentation styles and evolving requirements
   
-   - Collaborative team player  
+- Collaborative team player  
 
 ## My Journey
 
