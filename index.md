@@ -4,7 +4,7 @@ title: Home
 ---
 <div class="marquee-banner">
   <marquee behavior="scroll" direction="left" scrollamount="6" onmouseover="this.stop();" onmouseout="this.start();">
-    Welcome to my portfolio! Explore my work and skills.
+    Welcome to my professional portfolio!
   </marquee>
 </div>
 

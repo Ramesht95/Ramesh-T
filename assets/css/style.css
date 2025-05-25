@@ -226,6 +226,11 @@ summary {
   line-height: 1.5;
 }
 
+.marquee-banner {
+  border-radius: 12px !important;
+  overflow: visible !important; /* Temporarily override */
+  background-clip: padding-box; /* Ensures background respects border-radius */
+}
 
 .hero {
   text-align: center;
