@@ -205,7 +205,7 @@ summary {
   font-size: 1.5rem;
   margin-top: 0;
   margin-bottom: 0.5rem;
-  font-weight: 400; /* Normal weight, you can try 300 for lighter */
+  font-weight: 300; /* Normal weight, you can try 300 for lighter */
 }
 
   /* Disable hover/focus effect on profile photo link for mobile */
