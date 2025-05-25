@@ -208,14 +208,14 @@ summary {
     font-size: 1.5rem;
     margin-top: 0;
     margin-bottom: 0.5rem;
-    font-weight: 400;
+    font-weight: 350;
   }
 }
 
 /* ✨ Add this new block - for desktop */
 @media (min-width: 769px) {
   .hero h2 {
-    font-weight: 400;
+    font-weight: 350;
   }
 }
 
