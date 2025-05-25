@@ -11,13 +11,11 @@ I have a strong interest in making complex technical concepts more accessible to
 
 ## My Skills
 
-   - **Authoring Tools:** Confluence, MadCap Flare, Microsoft Word, Oxygen XML Author
-  
-   - **Technical Skills:** XML, HTML, DITA, Agile methodologies, Docs-as-Code (Markdown, Visual Studio Code, GitHub)
-  
-   - **Project Management:** Jira, GitHub, SharePoint
-  
-   - **Visual Editing Tools:** Snagit, Camtasia, Shotcut
+- **Authoring Tools:** Confluence, MadCap Flare, Microsoft Word, Oxygen XML Author  
+- **Technical Skills:** XML, HTML, DITA, Agile methodologies, Docs-as-Code (Markdown, Visual Studio Code, GitHub)  
+- **Project Management:** Jira, GitHub, SharePoint  
+- **Visual Editing Tools:** Snagit, Camtasia, Shotcut
+
 
 ## Why I Love Documentation?
 
