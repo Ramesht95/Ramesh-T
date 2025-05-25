@@ -10,23 +10,26 @@ I have a strong interest in making complex technical concepts more accessible to
 
 ## My Skills
 
-- **Authoring Tools**: Confluence, Madcap Flare, Microsoft Word, Oxygen XML Author
-- **Technical Skills**: XML, HTML, DITA, Agile Methodologies, Docs as code (Visual Studio Code, Markdown, and GitHub)
-- **Project Management**: GitHub, Jira, SharePoint 
-- **Visual Editing Tools**: Camtasia, Snagit, Shotcut
-
+   - **Authoring Tools:** Confluence, MadCap Flare, Microsoft Word, Oxygen XML Author
+  
+   - **Technical Skills:** XML, HTML, DITA, Agile methodologies, Docs-as-Code (Markdown, Visual Studio Code, GitHub)
+  
+   - **Project Management:** Jira, GitHub, SharePoint
+  
+   - **Visual Editing Tools:** Snagit, Camtasia, Shotcut
 
 ## Why I Love Documentation?
 
 What excites me the most about my profession is the impact it has on making technology accessible to everyone, regardless of their technical expertise. Great documentation is the bridge between complex software products and the end users. My goal is to help users understand, troubleshoot, and make the most out of the products they use.
 
 ## Why Choose Me?
-- Clear, concise, and user-focused documentation
-- Strong time management and consistent deadline adherence
-- Working knowledge of industry-standard tools and technologies
-- Empathetic communication focused on user needs
-- Adaptability to diverse documentation styles and evolving requirements
-- Collaborative team player  
+
+   - Clear, concise, and user-focused documentation
+   - Strong time management and consistent deadline adherence
+   - Working knowledge of industry-standard tools and technologies
+   - Empathetic communication focused on user needs
+   - Adaptability to diverse documentation styles and evolving requirements
+   - Collaborative team player  
 
 ## My Journey
 
@@ -80,4 +83,6 @@ Completed the Advanced Unit with a typing speed of 34 WPM and an accuracy of 96%
     This browser does not support PDFs. Please download the PDF to view it:
     <a href="documents/Touch_typing_Cert.pdf">Download PDF</a>.
 </iframe>  
+
+
 
