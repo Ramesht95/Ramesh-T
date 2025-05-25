@@ -42,18 +42,18 @@ nav.sidebar a {
   font-weight: 600;
   width: 100%;
   text-align: left;
-  border-left: 4px solid transparent;
-  transition: background-color 0.3s ease, border-left 0.3s ease;
+  border-left: 4px solid transparent; /* reserve space to prevent shift */
+  transition: background-color 0.3s ease, border-left-color 0.3s ease;
 }
 
 nav.sidebar a:hover {
   background-color: #3B5998; /* Medium blue */
-  border-left: 4px solid #007BFF; /* Bright blue border */
+  border-left-color: #007BFF; /* Bright blue border on hover */
 }
 
 nav.sidebar a.active {
   background-color: #007BFF; /* Bright blue active */
-  border-left: 4px solid #0056b3; /* Darker blue border */
+  border-left-color: #0056b3; /* Darker blue border */
 }
 
 /* Profile photo */
@@ -87,59 +87,6 @@ main.content {
 main.content h1 {
   margin-bottom: 20px;
   color: #1A2A47; /* Navy blue */
-}
-
-/* Responsive for tablets and mobile */
-@media (max-width: 768px) {
-  .container {
-    flex-direction: column;
-  }
-
- nav.sidebar {
-      nav.sidebar {
-    position: relative;
-    width: 100%;
-    height: auto;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
-    padding: 10px 0;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-  }
-
-  nav.sidebar a {
-    padding: 10px;
-    font-size: 14px;
-    text-align: center;
-    border-left: none;
-    border-bottom: 4px solid transparent;
-    flex: 1;
-    color: #FFFFFF;
-  }
-
-  nav.sidebar a:hover,
-  nav.sidebar a.active {
-    border-bottom: 4px solid #007BFF;
-    background-color: transparent;
-  }
-
-  .profile-photo {
-    margin: 0 10px;
-  }
-
-  .profile-photo img {
-    width: 50px;
-    height: 50px;
-    object-fit: cover;
-    object-position: center 25%;
-    border-width: 2px;
-    border-color: #007BFF; /* Bright blue border */
-  }
-
-  main.content {
-    margin-left: 0;
-    padding: 20px;
-  }
 }
 
 /* Minimal spacing fix for headings and paragraphs */
@@ -199,6 +146,56 @@ summary {
 }
 
 @media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+
+  nav.sidebar {
+    position: relative;
+    width: 100%;
+    height: auto;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+
+  nav.sidebar a {
+    padding: 10px;
+    font-size: 14px;
+    text-align: center;
+    border-left: none;
+    border-bottom: 4px solid transparent; /* reserve space */
+    flex: 1;
+    color: #FFFFFF;
+    transition: border-bottom-color 0.3s ease;
+  }
+
+  nav.sidebar a:hover,
+  nav.sidebar a.active {
+    border-bottom-color: #007BFF;
+    background-color: transparent;
+  }
+
+  .profile-photo {
+    margin: 0 10px;
+  }
+
+  .profile-photo img {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    object-position: center 25%;
+    border-width: 2px;
+    border-color: #007BFF;
+  }
+
+  main.content {
+    margin-left: 0;
+    padding: 20px;
+  }
+
   .hero h1 {
     font-size: 2rem;
     margin-top: 0.1rem;
@@ -209,8 +206,35 @@ summary {
     margin-top: 0;
     margin-bottom: 0.5rem;
   }
+
+  /* Disable hover/focus effect on profile photo link for mobile */
+  .profile-photo a {
+    -webkit-tap-highlight-color: transparent;
+    outline: none !important;
+    border: none !important;
+    box-shadow: none !important;
+    background-color: transparent !important;
+    display: inline-block;
+  }
+
+  .profile-photo a:hover,
+  .profile-photo a:focus,
+  .profile-photo a:active {
+    outline: none !important;
+    border: none !important;
+    box-shadow: none !important;
+    background-color: transparent !important;
+  }
+
+  .profile-photo a img {
+    border: none !important;
+    box-shadow: none !important;
+    outline: none !important;
+    background-color: transparent !important;
+  }
 }
 
+/* Hero section */
 .hero {
   text-align: center;
   margin-top: 0rem;
@@ -225,13 +249,13 @@ summary {
   margin-top: 0.5rem;
 }
 
-
 .hero h1, .hero h2 {
   line-height: 1.1;
   padding: 0;
-  margin: 0;       /* Add this to remove extra margin */
+  margin: 0; /* remove extra margin */
 }
 
+/* Profile photo link styling on desktop */
 .profile-photo a {
   display: inline-block;       /* shrink to fit image */
   border-radius: 50%;          /* round shape */
@@ -250,33 +274,3 @@ summary {
   box-shadow: 0 0 10px 3px rgba(0, 123, 255, 0.5);
   outline: none;
 }
-@media (max-width: 768px) {
-  .profile-photo a {
-    -webkit-tap-highlight-color: transparent; /* Disable highlight on iOS/Android */
-    outline: none !important;
-    border: none !important;
-    box-shadow: none !important;
-    background-color: transparent !important;
-    display: inline-block;
-  }
-
-  .profile-photo a:focus,
-  .profile-photo a:hover,
-  .profile-photo a:active {
-    outline: none !important;
-    border: none !important;
-    box-shadow: none !important;
-    background-color: transparent !important;
-  }
-
-  .profile-photo a img {
-    border: none !important;
-    box-shadow: none !important;
-    outline: none !important;
-    background-color: transparent !important;
-  }
-}
-
-
-
-
