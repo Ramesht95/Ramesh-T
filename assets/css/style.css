@@ -95,25 +95,25 @@ main.content h1 {
     flex-direction: column;
   }
 
-  nav.sidebar {
+ nav.sidebar {
     position: relative;
     width: 100%;
     height: auto;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-evenly;
     align-items: center;
-    padding: 10px 0;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    padding: 5px 0; /* reduced */
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08); /* lighter shadow */
   }
 
   nav.sidebar a {
-    padding: 10px;
-    font-size: 14px;
+    padding: 6px 8px;  /* reduced padding */
+    font-size: 13px;   /* slightly smaller font */
     text-align: center;
     border-left: none;
-    border-bottom: 4px solid transparent;
-    flex: 1;
-    color: #FFFFFF; /* Keep white text */
+    border-bottom: 3px solid transparent; /* thinner border */
+    flex: none;
+    color: #FFFFFF;
   }
 
   nav.sidebar a:hover,
