@@ -82,7 +82,7 @@ Completed this introductory course to build a basic understanding of HTML and ho
 
 <br>
 
-**Typing Speed Certification** - **Typing.com**
+**Touch Typing Certification** - **Typing.com**
 
 Completed the Advanced Unit in touch typing with a speed of 34 WPM and 96% accuracy. This structured program focused on building muscle memory and finger placement to improve typing fluency and accuracy. Gaining proficiency in touch typing has enhanced my overall productivity and supports my work as a technical writer.
 
