@@ -13,11 +13,11 @@ I have a strong interest in making complex technical concepts more accessible to
 
 - **Authoring Tools:** Confluence, MadCap Flare, Microsoft Word, Oxygen XML Author 
    
-- **Technical Skills:** XML, HTML, DITA, Agile methodologies, Docs-as-Code (Markdown, Visual Studio Code, GitHub)  
+- **Technical Skills:** XML, HTML, DITA, Agile methodologies, Docs-as-Code (Markdown, Visual Studio Code, and GitHub)  
 
-- **Project Management:** Jira, GitHub, SharePoint 
+- **Project Management:** Jira, GitHub, and SharePoint 
  
-- **Visual Editing Tools:** Snagit, Camtasia, Shotcut
+- **Visual Editing Tools:** Snagit, Camtasia, and Shotcut
 
 
 ## Why I Love Documentation?
@@ -40,9 +40,7 @@ What excites me the most about my profession is the impact it has on making tech
 
 ## My Journey
 
-I began my career as a Process Associate at **Mr. Cooper**, Chennai, a leading mortgage company, where I worked in the Operations Department. My responsibility was to ensure the accuracy and quality of loan-related documents, which required attention to detail, documentation skills, and process understanding.
-
-Over time, I developed a strong interest in documentation and the role it plays in simplifying complex information. I started learning the fundamentals of technical writing, including document structuring, clarity, and the use of industry-standard tools.
+I began my career as a Process Associate at **Mr. Cooper**, Chennai, a leading mortgage company, where I worked in the Operations Department. Over time, I developed a strong interest in documentation and the role it plays in simplifying complex information. I started learning the fundamentals of technical writing, including document structuring, clarity, and the use of industry-standard tools.
 
 With dedicated preparation and focus, I transitioned into a new role as a Technical Writer at **Cognizant Technology Solutions**, Chennai. This marked a turning point in my career, allowing me to combine my writing ability, technical curiosity, and passion for clarity into a meaningful profession.
 
