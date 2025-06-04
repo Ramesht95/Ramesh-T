@@ -28,7 +28,7 @@ title: Projects
   <summary><span style="font-size: 1em; font-weight: bold;">Task Topic</span></summary>
   <br>
 
-  <p><strong>Title:</strong>Share an Attachment in Microsoft Teams with a Contact</p>
+  <p><strong>Title:</strong> Share an Attachment in Microsoft Teams with a Contact</p>
   <p><strong>Tools Used:</strong> Microsoft Word</p>
 
   <p><strong>Project Overview:</strong> This document illustrates a task topic for sharing an attachment in Microsoft Teams with a contact.</p>
