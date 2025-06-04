@@ -56,7 +56,11 @@ title: Projects
 
 <details>
   <summary><span style="font-size: 1em; font-weight: bold;">Quick Start Guide</span></summary>
+  
   <p>This guide helps new users quickly get started with the product or feature, providing clear setup instructions and examples.</p>
+
+  <p><strong>Title:</strong> Quick Start Guide for creating a post in the Tech Writers Tribe application</p>
+  <p><strong>Tools Used:</strong> Confluence (Authoring), Snagit (Illustration)</p>
 
   <iframe src="documents/Quick%20Start%20Guide.pdf" width="90%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it:
