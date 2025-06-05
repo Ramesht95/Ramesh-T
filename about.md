@@ -5,15 +5,17 @@ title: About
 
 # About Me
 
-Hello! I’m **Ramesh**, a passionate **Technical Writer** with a focus on creating clear, concise, and user-friendly documentation. Currently, I’m working at **Thryve Digital Health LLP** where I specialize in **structured authoring, technical documentation**, and **content strategy**.  
+Hello! I’m **Ramesh**, a passionate **Technical Writer** with over 5.7 years of professional experience, including 4 years focused on technical writing. I specialize in creating clear, concise, and user-friendly documentation that helps simplify complex technical concepts.
 
-I have a strong interest in making complex technical concepts more accessible to a wider audience. Over the years, I’ve had the opportunity to work with various authoring tools and collaborate with diverse teams, ensuring the best documentation practices are followed.
+Currently, I’m working at **Thryve Digital Health LLP**, where I focus on structured authoring, technical documentation, and content strategy. I collaborate with cross-functional teams and use industry-standard tools to deliver high-quality documentation aligned with user and business needs.
+
+Over the years, I’ve gained experience working with various authoring tools and maintaining best practices in documentation across diverse teams and projects.
 
 ## My Skills
 
-- **Authoring Tools:** Confluence, MadCap Flare, Microsoft Word, Oxygen XML Author 
+- **Authoring Tools:** Confluence, MadCap Flare, Microsoft Word, and Oxygen XML Author 
    
-- **Technical Skills:** XML, HTML, DITA, Agile methodologies, Docs-as-Code (Markdown, Visual Studio Code, and GitHub)  
+- **Technical Skills:** XML, HTML, DITA, Agile methodologies, and Docs-as-Code (Markdown, Visual Studio Code, and GitHub)  
 
 - **Project Management:** Jira, GitHub, and SharePoint 
  

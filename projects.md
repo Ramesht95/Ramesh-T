@@ -45,7 +45,7 @@ title: Projects
   <br>
 
   <p><strong>Title:</strong> Formatting Options</p>
-  <p><strong>Tools Used:</strong> Microsoft Word</p>
+  <p><strong>Tools Used:</strong> Microsoft Word and Snagit</p>
 
   <p><strong>Project Overview:</strong> This document illustrates a reference topic on formatting options in Microsoft Teams chat.</p>
 
@@ -77,7 +77,7 @@ title: Projects
   <br>
 
   <p><strong>Title:</strong> WhatsApp Release Notes</p>
-  <p><strong>Tools Used:</strong> Microsoft Word and Snagit</p>
+  <p><strong>Tools Used:</strong> Microsoft Word </p>
 
   <p><strong>Project Overview:</strong> This document illustrates the release notes for the WhatsApp application.</p>
 
