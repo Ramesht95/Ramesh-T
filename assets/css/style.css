@@ -145,6 +145,9 @@ summary {
   }
 }
 
+/* ===============================================
+   Mobile layout (≤768px)
+   =============================================== */
 @media (max-width: 768px) {
   .container {
     flex-direction: column;
@@ -186,7 +189,7 @@ summary {
     width: 50px;
     height: 50px;
     object-fit: cover;
-    object-position: center 60%;
+    object-position: center 50% !important; /* balanced position */
     border-width: 2px;
     border-color: #007BFF;
   }
@@ -202,22 +205,12 @@ summary {
     margin-bottom: 0.2rem;
   }
 
-/* Already present - for mobile */
-@media (max-width: 768px) {
   .hero h2 {
     font-size: 1.5rem;
     margin-top: 0;
     margin-bottom: 0.5rem;
     font-weight: 350;
   }
-}
-
-/* ✨ Add this new block - for desktop */
-@media (min-width: 769px) {
-  .hero h2 {
-    font-weight: 350;
-  }
-}
 
   /* Disable hover/focus effect on profile photo link for mobile */
   .profile-photo a {
@@ -246,54 +239,17 @@ summary {
   }
 }
 
-/* Hero section */
-.hero {
-  text-align: center;
-  margin-top: 0rem;
-  padding-top: 0;
-}
-
-.hero p em {
-  display: inline-block;   /* ensure <em> behaves nicely */
-  font-style: italic;
-  color: #555;
-  font-size: 1.25rem;
-  margin-top: 0.5rem;
-}
-
-.hero h1, .hero h2 {
-  line-height: 1.1;
-  padding: 0;
-  margin: 0; /* remove extra margin */
-}
-
-/* Profile photo link styling on desktop */
-.profile-photo a {
-  display: inline-block;       /* shrink to fit image */
-  border-radius: 50%;          /* round shape */
-  overflow: hidden;            /* clip overflow to circle */
-  padding: 0;                  /* no extra padding */
-  margin: 0;                   /* no extra margin */
-  -webkit-tap-highlight-color: transparent; /* removes tap highlight on iOS/Android */
-  transition: box-shadow 0.3s ease, border-color 0.3s ease;
-}
-
-.profile-photo a:hover,
-.profile-photo a:focus,
-.profile-photo a:active {
-  background-color: transparent;
-  border-color: #007BFF;
-  box-shadow: 0 0 10px 3px rgba(0, 123, 255, 0.5);
-  outline: none;
-}
-
-.hero h2 {
-  font-weight: 400 !important;
-}
+/* ===============================================
+   Desktop layout (≥769px)
+   =============================================== */
 @media (min-width: 769px) {
   nav.sidebar .profile-photo img {
     object-fit: cover;
-    object-position: center 10% !important;
+    object-position: center 10% !important; /* perfect desktop position */
+  }
+
+  .hero h2 {
+    font-weight: 350;
   }
 }
 
