@@ -5,9 +5,9 @@ title: About
 
 # About Me
 
-Hello! I’m **Ramesh**, a passionate **Technical Writer** with over 5 years and 9 months of professional experience, including 4 years focused on technical writing. I specialize in creating clear, concise, and user-friendly documentation that helps simplify complex technical concepts.
+Hello! I’m **Ramesh**, a passionate **Technical Writer** with over 5 years and 11 months of professional experience, including 4 years focused on technical writing. I specialize in creating clear, concise, and user-friendly documentation that helps simplify complex technical concepts.
 
-Currently, I’m working at **Thryve Digital Health LLP**, where I focus on structured authoring, technical documentation, and content strategy. I collaborate with cross-functional teams and use industry-standard tools to deliver high-quality documentation aligned with user and business needs.
+Currently, I’m working at **UPS India Technology Center**, I'm experienced in structured authoring, technical documentation, and content strategy. I collaborate with cross-functional teams and use industry-standard tools to deliver high-quality documentation aligned with user and business needs.
 
 Over the years, I’ve gained experience working with various authoring tools and maintaining best practices in documentation across diverse teams and projects.
 
