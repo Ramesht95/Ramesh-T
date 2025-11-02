@@ -67,7 +67,7 @@ nav.sidebar a.active {
   height: 120px;
   border-radius: 50%;
   object-fit: cover;
-  object-position: center 40%;
+  object-position: center 50%;
   border: 3px solid #007BFF; /* Bright blue border */
   box-shadow: 0 0 8px rgba(0, 123, 255, 0.4); /* subtle blue glow */
 }
