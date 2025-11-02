@@ -252,4 +252,13 @@ summary {
     font-weight: 350;
   }
 }
+/* Desktop: add space between photo and first link */
+@media (min-width: 769px) {
+  nav.sidebar a:first-of-type { margin-top: 16px; } /* try 16–24px */
+}
+
+/* Mobile: keep top bar compact */
+@media (max-width: 768px) {
+  nav.sidebar a:first-of-type { margin-top: 0; }
+}
 
