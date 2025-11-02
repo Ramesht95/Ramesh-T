@@ -52,8 +52,8 @@ nav.sidebar a:hover {
 }
 
 nav.sidebar a.active {
-  background-color: #007BFF; /* Bright blue active */
-  border-left-color: #0056b3; /* Darker blue border */
+  background-color: transparent; /* ✅ FIXED: removed blue box */
+  border-left-color: #0056b3; /* keep left border only */
 }
 
 /* Profile photo */
@@ -252,6 +252,7 @@ summary {
     font-weight: 350;
   }
 }
+
 /* Desktop: add space between photo and first link */
 @media (min-width: 769px) {
   nav.sidebar a:first-of-type { margin-top: 16px; } /* try 16–24px */
@@ -261,4 +262,3 @@ summary {
 @media (max-width: 768px) {
   nav.sidebar a:first-of-type { margin-top: 0; }
 }
-
