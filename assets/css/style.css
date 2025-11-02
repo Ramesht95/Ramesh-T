@@ -290,3 +290,32 @@ summary {
 .hero h2 {
   font-weight: 400 !important;
 }
+/* ===== FIX 1: Desktop-only profile photo position (no layout changes) ===== */
+/* Scoped to the sidebar profile photo only; mobile remains untouched. */
+@media (min-width: 769px) {
+  nav.sidebar .profile-photo img {
+    /* keep your cover; just move the crop a bit vertically */
+    object-fit: cover;
+    object-position: center 45% !important; /* tweak 45% → 40–50% to taste */
+  }
+}
+
+/* ===== FIX 2: Unnest the hero <h2> media queries (valid structure) ===== */
+/* Your current CSS has @media blocks nested inside the mobile @media,
+   which is invalid and can cause later rules to be ignored in some parsers.
+   These two blocks re-declare the same rules with correct, top-level media queries. */
+
+@media (max-width: 768px) {
+  .hero h2 {
+    font-size: 1.5rem;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 350;
+  }
+}
+
+@media (min-width: 769px) {
+  .hero h2 {
+    font-weight: 350;
+  }
+}
