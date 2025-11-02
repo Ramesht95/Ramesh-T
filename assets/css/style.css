@@ -296,7 +296,7 @@ summary {
   nav.sidebar .profile-photo img {
     /* keep your cover; just move the crop a bit vertically */
     object-fit: cover;
-    object-position: center 20% !important; /* tweak 45% → 40–50% to taste */
+    object-position: center 15% !important; /* tweak 45% → 40–50% to taste */
   }
 }
 
