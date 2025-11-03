@@ -46,8 +46,9 @@ I began my career as a Process Associate at **Mr. Cooper**, Chennai, a leading m
 
 With dedicated preparation and focus, I transitioned into a new role as a Technical Writer at **Cognizant Technology Solutions**, Chennai. This marked a turning point in my career, allowing me to combine my writing ability, technical curiosity, and passion for clarity into a meaningful profession.
 
-Currently, I’m working as a Technical Writer at **Thryve Digital Health LLP**, Chennai, where I specialize in structured authoring, technical documentation, and content strategy. I collaborate with cross-functional teams to deliver user-centric documentation that enhances product usability and ensures compliance with industry standards.
+Later, I joined **Thryve Digital Health LLP**, Chennai, where I specialized in structured authoring, technical documentation, and content strategy. I collaborated with cross-functional teams to deliver user-centric documentation that enhanced product usability and ensured compliance with industry standards.
 
+Currently, I’m working as a Technical Writer at **UPS India Technology Center**, where I focus on maintaining high-quality documentation that supports operational excellence and business efficiency.
 ## Education
 
 **BE - Aeronautical Engineering**   
